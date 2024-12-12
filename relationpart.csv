@@ -1,1322 +1,1322 @@
-entity,part,relation
-è‰è“æ ¹è…ç—…,è‰è“,å±å®³éƒ¨ä½
-è‰è“é©è…ç—…,æœå®,å±å®³éƒ¨ä½
-è‰è“é©è…ç—…,å°è‹—,å±å®³éƒ¨ä½
-æŸ¿ç–¯ç—…,æå¹²,å±å®³éƒ¨ä½
-æŸ¿ç‚­ç–½ç—…,æå¹²,å±å®³éƒ¨ä½
-æŸ¿ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ¿ç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ¿ç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ¿ç°éœ‰ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ¿è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ¿è§’æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ¿åœ†æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ¿åœ†æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ¿é»‘æ˜Ÿç—…,æå¹²,å±å®³éƒ¨ä½
-æŸ¿é»‘æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ¿é»‘æ˜Ÿç—…,æœå®,å±å®³éƒ¨ä½
-çŸ³æ¦´å¹²è…ç—…,æå¹²,å±å®³éƒ¨ä½
-çŸ³æ¦´å¹²è…ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-çŸ³æ¦´å¹²è…ç—…,æœå®,å±å®³éƒ¨ä½
-çŸ³æ¦´é»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ‘æ©˜ç–®ç—‚ç—…,æå¹²,å±å®³éƒ¨ä½
-æŸ‘æ©˜ç–®ç—‚ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ‘æ©˜ç–®ç—‚ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æŸ‘æ©˜ç–®ç—‚ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ‘æ©˜ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ‘æ©˜ç‚­ç–½ç—…,æå¹²,å±å®³éƒ¨ä½
-æŸ‘æ©˜ç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ‘æ©˜è£‚çš®ç—…,æå¹²,å±å®³éƒ¨ä½
-æŸ‘æ©˜è£‚çš®ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ‘æ©˜è£‚çš®ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æŸ‘æ©˜è£‚çš®ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ‘æ©˜è£‚çš®ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-æŸ‘æ©˜é»„é¾™ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-æŸ‘æ©˜é»„é¾™ç—…,æå¹²,å±å®³éƒ¨ä½
-æŸ‘æ©˜é»„é¾™ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ‘æ©˜é»„é¾™ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ‘æ©˜æºƒç–¡ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ‘æ©˜æºƒç–¡ç—…,ææ¢¢,å±å®³éƒ¨ä½
-æŸ‘æ©˜æºƒç–¡ç—…,æœå®,å±å®³éƒ¨ä½
-æŸ‘æ©˜æ ‘è„‚ç—…,æå¹²,å±å®³éƒ¨ä½
-æŸ‘æ©˜æ ‘è„‚ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æŸ‘æ©˜æ ‘è„‚ç—…,æœå®,å±å®³éƒ¨ä½
-è”æéœœç–«éœ‰ç—…,æå¹²,å±å®³éƒ¨ä½
-è”æéœœç–«éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è”æéœœç–«éœ‰ç—…,æœå®,å±å®³éƒ¨ä½
-è”æç‚­ç–½ç—…,æå¹²,å±å®³éƒ¨ä½
-è”æç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è”æç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-è”æè—»æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è”æè—»æ–‘ç—…,æ ‘çš®,å±å®³éƒ¨ä½
-æ‡æ·ç°æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ‡æ·ç°æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-æ‡æ·æ–‘ç‚¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é¦™è•‰é»‘æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é¦™è•‰é»‘æ˜Ÿç—…,æœå®,å±å®³éƒ¨ä½
-é¦™è•‰æŸé¡¶ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-é¦™è•‰æŸé¡¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é¦™è•‰æŸé¡¶ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-é¦™è•‰æŸé¡¶ç—…,æœå®,å±å®³éƒ¨ä½
-é¦™è•‰æŸé¡¶ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¨±æ¡ƒè¤è…ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-æ¨±æ¡ƒè¤è…ç—…,èŠ±æœµ,å±å®³éƒ¨ä½
-æ¨±æ¡ƒè¤è…ç—…,æœå®,å±å®³éƒ¨ä½
-æ¨±æ¡ƒç‚­ç–½ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-æ¨±æ¡ƒç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢…ç°éœ‰ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æ¢…ç°éœ‰ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢…æºƒç–¡ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢…æºƒç–¡ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢…æºƒç–¡ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢…é»‘æ˜Ÿç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢…é»‘æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢…é»‘æ˜Ÿç—…,æœå®,å±å®³éƒ¨ä½
-è‘¡è„ç™½è…ç—…,æå¹²,å±å®³éƒ¨ä½
-è‘¡è„ç™½è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‘¡è„ç™½è…ç—…,æœå®,å±å®³éƒ¨ä½
-è‘¡è„å¤§æˆ¿æ¯ç—…,æå¹²,å±å®³éƒ¨ä½
-è‘¡è„é»‘ç—˜ç—…,æè”“,å±å®³éƒ¨ä½
-è‘¡è„é»‘ç—˜ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‘¡è„é»‘ç—˜ç—…,æœå®,å±å®³éƒ¨ä½
-è‘¡è„ç™½ç²‰ç—…,æè”“,å±å®³éƒ¨ä½
-è‘¡è„ç™½ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‘¡è„ç™½ç²‰ç—…,æœå®,å±å®³éƒ¨ä½
-è‘¡è„çš®å°”æ–¯ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‘¡è„æ ¹ç™Œç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‘¡è„æ‰‡å¶ç—…,é»„åŒ–,å±å®³éƒ¨ä½
-è‘¡è„æ “çš®ç—…,æå¹²,å±å®³éƒ¨ä½
-è‘¡è„èŒç—˜ç—…,æå¹²,å±å®³éƒ¨ä½
-è‘¡è„é»„é‡‘ç—…,æå¹²,å±å®³éƒ¨ä½
-è‘¡è„èŠ±å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‘¡è„èŠ±å¶ç—…,æœå®,å±å®³éƒ¨ä½
-è‘¡è„èŠ±å¶ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-è‘¡è„æ ¹ç»“çº¿è™«ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‘¡è„ç¼ºé“ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‘¡è„ç¼ºé•ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-è‘¡è„ç¼ºé’¾ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-è‘¡è„ç¼ºé”Œç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-çŒ•çŒ´æ¡ƒè¤è…ç—…,æå¹²,å±å®³éƒ¨ä½
-çŒ•çŒ´æ¡ƒç°éœ‰ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-çŒ•çŒ´æ¡ƒæºƒç–¡ç—…,æå¹²,å±å®³éƒ¨ä½
-æ —ç™½ç²‰ç—…,æå¹²,å±å®³éƒ¨ä½
-æ —ç‚­ç–½ç—…,æå¹²,å±å®³éƒ¨ä½
-æ —ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ —ç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-æ ¸æ¡ƒæ ‘è…çƒ‚ç—…,å¹¼æ ‘,å±å®³éƒ¨ä½
-æ ¸æ¡ƒæ ‘è…çƒ‚ç—…,ææ¡,å±å®³éƒ¨ä½
-æ ¸æ¡ƒç‚­ç–½ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-æ ¸æ¡ƒè¤æ–‘ç—…,æå¹²,å±å®³éƒ¨ä½
-æ£ç„¦å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ£ç„¦å¶ç—…,æœå®,å±å®³éƒ¨ä½
-æ£ç„¦å¶ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ£ç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-æ£ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ£è½®çº¹ç—…,æå¹²,å±å®³éƒ¨ä½
-æ£è½®çº¹ç—…,æœå®,å±å®³éƒ¨ä½
-æ£æ ‘æ ¹æœ½ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-æ£æ ‘æ ¹æœ½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ£æ ‘æ ¹ç™Œç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ£æ ‘æ ¹ç™Œç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ£ç–¯ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ£ç–¯ç—…,ææ¡,å±å®³éƒ¨ä½
-æ£ç–¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ£ç–¯ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æ£ç–¯ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-å±±æ¥‚èŠ±è…ç—…,æå¹²,å±å®³éƒ¨ä½
-å±±æ¥‚èŠ±è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å±±æ¥‚èŠ±è…ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒè¤æ–‘ç©¿å­”ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒè¤æ–‘ç©¿å­”ç—…,ææ¢¢ ,å±å®³éƒ¨ä½
-æ¡ƒè¤æ–‘ç©¿å­”ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒç¼©å¶ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒç¼©å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒç¼©å¶ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æ¡ƒç¼©å¶ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒéœ‰æ–‘ç©¿å­”ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒéœ‰æ–‘ç©¿å­”ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒéœ‰æ–‘ç©¿å­”ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æ¡ƒéœ‰æ–‘ç©¿å­”ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒé»‘æ˜Ÿç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒé»‘æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒé»‘æ˜Ÿç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒç–«è…ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒç‚­ç–½ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒç»†èŒæ€§ç©¿å­”ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒç»†èŒæ€§ç©¿å­”ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒç»†èŒæ€§ç©¿å­”ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒç™½ç²‰ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒç™½ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒç™½ç²‰ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘éä¾µæŸ“æ€§æµèƒ¶ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘éä¾µæŸ“æ€§æµèƒ¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘éä¾µæŸ“æ€§æµèƒ¶ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ä¾µæŸ“æ€§æµèƒ¶ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ä¾µæŸ“æ€§æµèƒ¶ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ä¾µæŸ“æ€§æµèƒ¶ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¡ƒç…¤æ±¡ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒç…¤æ±¡ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒç…¤æ±¡ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘æœ¨è…ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘æœ¨è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘æœ¨è…ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¡ƒæ ‘æ ¹æœ½ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-æ¡ƒæ ‘æ ¹æœ½ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘æ ¹æœ½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘æ ¹æœ½ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘æ ¹æœ½ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¡ƒè¤è…ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒè¤è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒè¤è…ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æ¡ƒè¤è…ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒè¤é”ˆç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒè¤é”ˆç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒè¤é”ˆç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒç°éœ‰ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒç™½çº¹ç¾½ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-æ¡ƒç™½çº¹ç¾½ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç™½ç»¢ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç™½ç»¢ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç™½ç»¢ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç™½ç»¢ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç™½ç»¢ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-æ¡ƒæ ¹ç™Œç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ¡ƒæ ¹ç™Œç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-æ¡ƒæ ¹ç™Œç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¡ƒæ½œéšèŠ±å¶ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘çº¢å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘çº¢å¶ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘çº¢å¶ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒåæ­»ç¯æ–‘ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-æ¡ƒåæ­»ç¯æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-æ¡ƒå›­æ ¹ç»“çº¿è™«ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ¡ƒç˜¿è¨ç•¸æœç—…,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºæ°®ç—‡,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºç£·ç—‡,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé’¾ç—‡,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé’¾ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé’¾ç—‡,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé’¾ç—‡,å…¨æ ª,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé“ç—‡,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé“ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé“ç—‡,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé“ç—‡,å…¨æ ª,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé”Œç—‡,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé”Œç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé”Œç—‡,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé”Œç—‡,å…¨æ ª,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé’™ç—‡,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé’™ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé’™ç—‡,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé“œç—‡,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé“œç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé“œç—‡,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé”°ç—‡,æå¹²,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé”°ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºé”°ç—‡,æœå®,å±å®³éƒ¨ä½
-æ¡ƒæ ‘ç¼ºç¡¼ç—‡,æå¹²,å±å®³éƒ¨ä½
-æè¢‹æœç—…,æå¹²,å±å®³éƒ¨ä½
-æè¢‹æœç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æè¢‹æœç—…,æœå®,å±å®³éƒ¨ä½
-æçº¢ç‚¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æçº¢ç‚¹ç—…,æœå®,å±å®³éƒ¨ä½
-æè¤è…ç—…,æœå®,å±å®³éƒ¨ä½
-æç»†èŒæ€§ç©¿å­”ç—…,æå¹²,å±å®³éƒ¨ä½
-æç»†èŒæ€§ç©¿å­”ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æç»†èŒæ€§ç©¿å­”ç—…,æœå®,å±å®³éƒ¨ä½
-æçº¿çº¹ç—…,å¶è„‰å¸¦çŠ¶,å±å®³éƒ¨ä½
-æçº¿çº¹ç—…,çº¿çº¹æ–‘,å±å®³éƒ¨ä½
-æçº¿çº¹ç—…,èŠ±å¶æ–‘,å±å®³éƒ¨ä½
-ææ ‘æµèƒ¶ç—…,æå¹²,å±å®³éƒ¨ä½
-ææ ‘æµèƒ¶ç—…,æœå®,å±å®³éƒ¨ä½
-æç–”ç—…,æå¹²,å±å®³éƒ¨ä½
-æç–”ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æç–”ç—…,æœå®,å±å®³éƒ¨ä½
-æç–”ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœè½®çº¹ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœè½®çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœè½®çº¹ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœç°æ–‘ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœç°æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœç°æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœè½®æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœè½®æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœé”ˆç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœé”ˆç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœé”ˆç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœèŠ±è…ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœèŠ±è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœèŠ±è…ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-è‹¹æœèŠ±è…ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœç–«è…ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-è‹¹æœç–«è…ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœç–«è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœç–«è…ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœç…¤æ±¡ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœç…¤æ±¡ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœåœ†æ–‘ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœåœ†æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœåœ†æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœé»‘ç‚¹ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœé»‘ç‚¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœé»‘ç‚¹ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœé»‘è…ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœé»‘è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœé»‘è…ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-è‹¹æœé»‘è…ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœé»‘æ˜Ÿç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœé»‘æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœé»‘æ˜Ÿç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-è‹¹æœé»‘æ˜Ÿç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœè¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœè¤æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœæ–‘ç‚¹è½å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ–‘ç‚¹è½å¶ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœæ–‘ç‚¹è½å¶ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœç™½ç²‰ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœç™½ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœç™½ç²‰ç—…,èŠ±æœµ,å±å®³éƒ¨ä½
-è‹¹æœç™½ç²‰ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœé“¶å¶ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœé“¶å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœé“¶å¶ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœé“¶å¶ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœè¤è…ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœè¤è…ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœä¸›æç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœä¸›æç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è‹¹æœä¸›æç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœä¸›æç—…,èŠ±æœµ,å±å®³éƒ¨ä½
-è‹¹æœä¸›æç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœä¸›æç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœç¼ºç£·ç—‡,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœç¼ºç£·ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ‘æ ¹æœ½ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-è‹¹æœæ ‘æ ¹æœ½ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœæ ‘æ ¹æœ½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ‘æ ¹æœ½ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç´«çº¹ç¾½ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç´«çº¹ç¾½ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç´«çº¹ç¾½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç´«çº¹ç¾½ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç™½ç»¢ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç™½ç»¢ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç™½ç»¢ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç™½ç»¢ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç™½ç»¢ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœåœ†æ–‘æ ¹è…ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ³¡æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç™Œç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç™Œç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç™Œç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç™Œç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœèŠ±å¶ç—…,èŠ±å¶å‹,å±å®³éƒ¨ä½
-è‹¹æœçš±å¶ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœçš±å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœçš±å¶ç—…,èŠ±,å±å®³éƒ¨ä½
-è‹¹æœçš±å¶ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœæ‰æç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœæ‰æç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœé«˜æ¥è¡°é€€ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœé«˜æ¥è¡°é€€ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è‹¹æœé«˜æ¥è¡°é€€ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœé«˜æ¥è¡°é€€ç—…,èŠ±æœµ,å±å®³éƒ¨ä½
-è‹¹æœé«˜æ¥è¡°é€€ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœé«˜æ¥è¡°é€€ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœé”ˆæœç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœé”ˆæœç—…,èŒå¹²,å±å®³éƒ¨ä½
-è‹¹æœé”ˆæœç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœè¤ªç»¿å¶æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœè¤ªç»¿å¶æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç»“çº¿è™«ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç»“çº¿è™«ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç»“çº¿è™«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç»“çº¿è™«ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœæ ¹ç»“çº¿è™«ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœæ ‘å†æ¤ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ‘å†æ¤ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è‹¹æœæ ‘å†æ¤ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ‘å†æ¤ç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœå°æœç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœå°æœç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœå°æœç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœå°æœç—…,å…¨æ ª,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç²—çš®ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç²—çš®ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœæ ‘ç²—çš®ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœç¼ºé“é»„åŒ–ç—‡,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœç¼ºé“é»„åŒ–ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœè‹¦ç—˜ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœè‹¦ç—˜ç—‡,æœå®,å±å®³éƒ¨ä½
-è‹¹æœè½¯æç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœè½¯æç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœè½¯æç—…,æ¤æ ª,å±å®³éƒ¨ä½
-è‹¹æœç¼ºæ°®ç—‡,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœç¼ºæ°®ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœç¼ºæ°®ç—‡,èŠ±å™¨,å±å®³éƒ¨ä½
-è‹¹æœç¼ºæ°®ç—‡,æœå®,å±å®³éƒ¨ä½
-è‹¹æœç¼ºé’¾ç—‡,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœç¼ºé’¾ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¹æœç¼ºç¡¼ç¼©æœç—‡,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœç¼ºç¡¼ç¼©æœç—‡,æå¶,å±å®³éƒ¨ä½
-è‹¹æœç¼ºç¡¼ç¼©æœç—‡,æœå®,å±å®³éƒ¨ä½
-è‹¹æœç¼ºé’™ç—‡,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‹¹æœç¼ºé’™ç—‡,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨é»‘æ˜Ÿç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨æ ‘å¹²æ¯ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨æ ‘å¹²è…ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨æ ‘å¹²è…ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨ç«ç–«ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨ç«ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨ç«ç–«ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æ¢¨ç«ç–«ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨é”ˆæ°´ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨é”ˆæ°´ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨é”ˆæ°´ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨é”ˆç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨é”ˆç—…,æ–°æ¢¢,å±å®³éƒ¨ä½
-æ¢¨é”ˆç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨æ ‘ç–«ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨æ ‘ç–«ç—…,å¹¼æ ‘,å±å®³éƒ¨ä½
-æ¢¨ç‚­ç–½ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨ç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨è¤æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨å¶ç–«ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨å¶ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨å¶ç–«ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨å¶ç–«ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¢¨è½®çº¹ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨è½®çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨è½®çº¹ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨é»‘æ–‘ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨é»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨é»‘æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨é»‘è…ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨é»‘è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨é»‘è…ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨ç…¤æ±¡ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨ç…¤æ±¡ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨ç™½çº¹ç¾½ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-æ¢¨ç™½çº¹ç¾½ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨ç™½çº¹ç¾½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨ç™½çº¹ç¾½ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨ç™½çº¹ç¾½ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¢¨ç´«çº¹ç¾½ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-æ¢¨ç´«çº¹ç¾½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨ç´«çº¹ç¾½ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¢¨æ ¹æœ½ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ¢¨æ ‘æ ¹è…ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ¢¨æ ‘æ ¹ç™Œç—…,æ ¹é¢ˆ,å±å®³éƒ¨ä½
-æ¢¨æ ‘æ ¹ç™Œç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨æ ‘æ ¹ç™Œç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨æ ‘æ ¹ç™Œç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¢¨çŸ³ç—˜ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨çŸ³ç—˜ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨çŸ³ç—˜ç—…,æœå®,å±å®³éƒ¨ä½
-æ¢¨ç¯çº¹èŠ±å¶ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-æ¢¨å¶è„‰é»„åŒ–ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨å¶è„‰é»„åŒ–ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨å¶è„‰é»„åŒ–ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¢¨æ ¹ç»“çº¿è™«ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-æ¢¨æ ¹ç»“çº¿è™«ç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨æ ¹ç»“çº¿è™«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨æ ¹ç»“çº¿è™«ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æ¢¨æ ¹ç»“çº¿è™«ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-æ¢¨ç»†èŒæ€§èŠ±è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨ç»†èŒæ€§èŠ±è…ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-æ¢¨è£‚æœç—…,æå¹²,å±å®³éƒ¨ä½
-æ¢¨è£‚æœç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¢¨è£‚æœç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œè”“æ¯ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è¥¿ç“œè”“æ¯ç—…,æˆæ ª,å±å®³éƒ¨ä½
-è¥¿ç“œæ¯èç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-è¥¿ç“œæ¯èç—…,æˆæ ª,å±å®³éƒ¨ä½
-è¥¿ç“œç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è¥¿ç“œç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿ç“œç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è¥¿ç“œç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿ç“œç–«ç—…,èŒè”“,å±å®³éƒ¨ä½
-è¥¿ç“œç–«ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œå¶æ¯ç—…,å­å¶,å±å®³éƒ¨ä½
-è¥¿ç“œå¶æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿ç“œå¶æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-è¥¿ç“œå¶æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œè¤è‰²è…è´¥ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-è¥¿ç“œè¤è‰²è…è´¥ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿ç“œè¤è‰²è…è´¥ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è¥¿ç“œè¤è‰²è…è´¥ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œè¤è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿ç“œè¤è…ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œèŒæ ¸ç—…,å­å¶,å±å®³éƒ¨ä½
-è¥¿ç“œèŒæ ¸ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œç»†èŒæ€§è§’æ–‘ç—…,å­å¶,å±å®³éƒ¨ä½
-è¥¿ç“œç»†èŒæ€§è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿ç“œç»†èŒæ€§è§’æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è¥¿ç“œç»†èŒæ€§è§’æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œç»†èŒæ€§æœæ–‘ç—…,å­å¶,å±å®³éƒ¨ä½
-è¥¿ç“œç»†èŒæ€§æœæ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿ç“œç»†èŒæ€§æœæ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œç»†èŒæ€§æœæ–‘ç—…,ç“œè”“,å±å®³éƒ¨ä½
-è¥¿ç“œç—…æ¯’ç—…,èŠ±å¶å‹,å±å®³éƒ¨ä½
-è¥¿ç“œç—…æ¯’ç—…,è•¨å¶,å±å®³éƒ¨ä½
-è¥¿ç“œé»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿ç“œé»‘æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿ç“œç™½ç»¢ç—…,èŒåŸºéƒ¨,å±å®³éƒ¨ä½
-è¥¿ç“œç™½ç»¢ç—…,æœå®,å±å®³éƒ¨ä½
-ç”œç“œå¤§æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œç“œå¤§æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-ç”œç“œé»‘æ˜Ÿç—…,å¶,å±å®³éƒ¨ä½
-ç”œç“œé»‘æ˜Ÿç—…,èŒ,å±å®³éƒ¨ä½
-ç”œç“œéœœéœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œç“œéœœéœ‰ç—…,ç“œè”“,å±å®³éƒ¨ä½
-ç”œç“œç–«ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç”œç“œç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œç“œç–«ç—…,æœå®,å±å®³éƒ¨ä½
-ç”œç“œç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œç“œç‚­ç–½ç—…,èŒå’Œ,å±å®³éƒ¨ä½
-ç”œç“œç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç”œç“œç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-ç”œç“œè”“æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç”œç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œç“œè”“æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-ç”œç“œç—…æ¯’ç—…,èŠ±å¶å‹,å±å®³éƒ¨ä½
-ç”œç“œé»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œç“œé»‘æ–‘ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç”œç“œé»‘æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-ç”œç“œçº¢ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œç“œçº¢ç²‰ç—…,æœå®,å±å®³éƒ¨ä½
-ç”œç“œé•°åˆ€èŒæœè…ç—…,ç“œæœ,å±å®³éƒ¨ä½
-ç”œç“œé•°åˆ€èŒæœè…ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç”œç“œé•°åˆ€èŒæœè…ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç”œç“œç»†èŒæ€§è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œç“œç»†èŒæ€§è§’æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç”œç“œç»†èŒæ€§è§’æ–‘ç—…,å·é¡»,å±å®³éƒ¨ä½
-ç”œç“œç»†èŒæ€§è§’æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¹æœæ ‘è…çƒ‚ç—…,æå¹²,å±å®³éƒ¨ä½
-è‹¹æœæ ‘è…çƒ‚ç—…,æœå®,å±å®³éƒ¨ä½
-è±Œè±†ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±Œè±†ç‚­ç–½ç—…,èŒè”“,å±å®³éƒ¨ä½
-è±Œè±†ç‚­ç–½ç—…,è±†èš,å±å®³éƒ¨ä½
-è±Œè±†ç»†èŒæ€§å¶æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±Œè±†ç»†èŒæ€§å¶æ–‘ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è±Œè±†ç»†èŒæ€§å¶æ–‘ç—…,èŠ±æ¢—,å±å®³éƒ¨ä½
-æ‰è±†ç‚­ç–½ç—…,å­å¶,å±å®³éƒ¨ä½
-æ‰è±†ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ‰è±†ç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ‰è±†ç‚­ç–½ç—…,èŒè”“,å±å®³éƒ¨ä½
-æ‰è±†ç‚­ç–½ç—…,è±†èš,å±å®³éƒ¨ä½
-æ‰è±†ç»†èŒæ€§ç–«ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ‰è±†ç»†èŒæ€§ç–«ç—…,æˆæ ª,å±å®³éƒ¨ä½
-æ‰è±†ç»†èŒæ€§ç–«ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-æ‰è±†ç»†èŒæ€§ç–«ç—…,è±†èš,å±å®³éƒ¨ä½
-æ‰è±†çº¢æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ‰è±†çº¢æ–‘ç—…,è±†èš,å±å®³éƒ¨ä½
-èš•è±†è¤æ–‘ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-èš•è±†æ¯èç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èš•è±†æ¯èç—…,èŒåŸº,å±å®³éƒ¨ä½
-èš•è±†æ¯èç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-èš•è±†ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èš•è±†ç‚­ç–½ç—…,èŒæ†,å±å®³éƒ¨ä½
-èš•è±†ç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-èš•è±†ç‚­ç–½ç—…,è±†èš,å±å®³éƒ¨ä½
-èš•è±†è½®çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èš•è±†è½®çº¹ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-èš•è±†è½®çº¹ç—…,è±†èš,å±å®³éƒ¨ä½
-èš•è±†ç«‹æ¯ç—…,èŒåŸº,å±å®³éƒ¨ä½
-èš•è±†ç«‹æ¯ç—…,ç±½ç²’,å±å®³éƒ¨ä½
-èš•è±†å¶çƒ§ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èš•è±†å¶çƒ§ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-èš•è±†å¶çƒ§ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è²è—•å°¾å­¢è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è²è—•è¤çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è²è—•ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ­ç™½ç˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ­ç™½ç˜Ÿç—…,å¶é˜,å±å®³éƒ¨ä½
-èŒ­ç™½èƒ¡éº»æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ­ç™½èƒ¡éº»æ–‘ç—…,å¶é˜,å±å®³éƒ¨ä½
-èŒ­ç™½é»‘ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ­ç™½é»‘ç²‰ç—…,å¶é˜,å±å®³éƒ¨ä½
-èŒ­ç™½é»‘ç²‰ç—…,èŒ­è‚‰,å±å®³éƒ¨ä½
-ä½›æ‰‹ç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ä½›æ‰‹ç“œè”“æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-ä½›æ‰‹ç“œè”“æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¦ç“œç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è‹¦ç“œç‚­ç–½ç—…,æˆæ ª,å±å®³éƒ¨ä½
-è‹¦ç“œç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¦ç“œç–«ç—…,èŒåŸº,å±å®³éƒ¨ä½
-è‹¦ç“œç–«ç—…,ç“œæ¡,å±å®³éƒ¨ä½
-è‹¦ç“œèŒæ ¸ç—…,èŒè”“,å±å®³éƒ¨ä½
-è‹¦ç“œè”“æ¯ç—…,ç“œè”“,å±å®³éƒ¨ä½
-è‹¦ç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¦ç“œè”“æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-è‹¦ç“œç»†èŒæ€§è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹¦ç“œç»†èŒæ€§è§’æ–‘ç—…,èŒ,å±å®³éƒ¨ä½
-è‹¦ç“œç»†èŒæ€§è§’æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-èœè±†çº¢æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èœè±†çº¢æ–‘ç—…,è±†èš,å±å®³éƒ¨ä½
-èœè±†ç°éœ‰ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-èœè±†ç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èœè±†ç°éœ‰ç—…,æ ¹èŒ,å±å®³éƒ¨ä½
-èœè±†ç°éœ‰ç—…,è±†èš,å±å®³éƒ¨ä½
-èœè±†ç‚­ç–½ç—…,å­å¶,å±å®³éƒ¨ä½
-èœè±†ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èœè±†ç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-èœè±†ç‚­ç–½ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-èœè±†ç‚­ç–½ç—…,è±†èš,å±å®³éƒ¨ä½
-èœè±†ç‚­ç–½ç—…,ç§å­,å±å®³éƒ¨ä½
-èœè±†æ¯èç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èœè±†æ¯èç—…,æ ¹ã€èŒ,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§ç–«ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§ç–«ç—…,èŒè”“,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§ç–«ç—…,è±†èš,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§ç–«ç—…,ç§å­,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§æ™•ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§æ™•ç–«ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§æ™•ç–«ç—…,æœèš,å±å®³éƒ¨ä½
-èœè±†èŠ±å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èœè±†èŠ±å¶ç—…,è±†èš,å±å®³éƒ¨ä½
-èœè±†èŠ±å¶ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§å¶æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§å¶æ–‘ç—…,èŒå’Œ,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§å¶æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-èœè±†ç»†èŒæ€§å¶æ–‘ç—…,ç§å­,å±å®³éƒ¨ä½
-è±‡è±†ç–«ç—…,æ ¹é¢ˆ,å±å®³éƒ¨ä½
-è±‡è±†ç–«ç—…,è”“èŒ,å±å®³éƒ¨ä½
-è±‡è±†ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±‡è±†ç–«ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è±‡è±†ç–«ç—…,èŠ±æ¢—,å±å®³éƒ¨ä½
-è±‡è±†ç–«ç—…,è±†èš,å±å®³éƒ¨ä½
-è±‡è±†æ¯èç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±‡è±†æ¯èç—…,æ ¹èŒ,å±å®³éƒ¨ä½
-è±‡è±†é”ˆç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±‡è±†é”ˆç—…,å¶è„‰,å±å®³éƒ¨ä½
-è±‡è±†åŸºè…ç—…,å­å¶,å±å®³éƒ¨ä½
-è±‡è±†åŸºè…ç—…,èŒåŸº,å±å®³éƒ¨ä½
-è±‡è±†ç°éœ‰ç—…,èŒè”“,å±å®³éƒ¨ä½
-è±‡è±†ç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±‡è±†ç°éœ‰ç—…,è±†èš,å±å®³éƒ¨ä½
-è±‡è±†ç»†èŒæ€§ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±‡è±†ç»†èŒæ€§ç–«ç—…,èŒè”“,å±å®³éƒ¨ä½
-è±‡è±†ç»†èŒæ€§ç–«ç—…,è±†èš,å±å®³éƒ¨ä½
-è±‡è±†ç‚­ç–½ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-è±‡è±†ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±‡è±†ç‚­ç–½ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è±‡è±†è½®çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±‡è±†è½®çº¹ç—…,èŒè”“,å±å®³éƒ¨ä½
-è±‡è±†è½®çº¹ç—…,è±†èš,å±å®³éƒ¨ä½
-è±‡è±†è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±‡è±†èŒæ¯ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-è±‡è±†èŒæ¯ç—…,æˆæ ª,å±å®³éƒ¨ä½
-æ¯›è±†é”ˆç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†é”ˆç—…,å¶æŸ„å’ŒèŒ,å±å®³éƒ¨ä½
-æ¯›è±†ç–«ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-æ¯›è±†ç–«ç—…,æˆæ ª,å±å®³éƒ¨ä½
-æ¯›è±†ç–«ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†è¤æ–‘ç—…,å­å¶,å±å®³éƒ¨ä½
-æ¯›è±†è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†è¤æ–‘ç—…,èŒå’Œ,å±å®³éƒ¨ä½
-æ¯›è±†è¤æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ¯›è±†é»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†é»‘æ–‘ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†ç°æ–‘ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ¯›è±†éœœéœ‰ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ¯›è±†éœœéœ‰ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†è€™ç‚¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†è€™ç‚¹ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ¯›è±†è€™ç‚¹ç—…,èŒè”“,å±å®³éƒ¨ä½
-æ¯›è±†è€™ç‚¹ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†ç‚­ç–½ç—…,èŒæ†,å±å®³éƒ¨ä½
-æ¯›è±†ç‚­ç–½ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†ç‚­ç–½ç—…,å­å¶,å±å®³éƒ¨ä½
-æ¯›è±†ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†ç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ¯›è±†èšæ¯ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†èšæ¯ç—…,èŒæ†,å±å®³éƒ¨ä½
-æ¯›è±†èšæ¯ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ¯›è±†æ¯èç—…,æ•´æ ª,å±å®³éƒ¨ä½
-æ¯›è±†æ¯èç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-æ¯›è±†æ¯èç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-æ¯›è±†ç»†èŒæ–‘ç–¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†ç»†èŒæ–‘ç–¹ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†èŒæ ¸ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-æ¯›è±†èŒæ ¸ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†èŒæ ¸ç—…,èŒæ†,å±å®³éƒ¨ä½
-æ¯›è±†èŒæ ¸ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†çŒå€’ç—…,æ ¹,å±å®³éƒ¨ä½
-æ¯›è±†é»‘ç‚¹ç—…,èŒæ†,å±å®³éƒ¨ä½
-æ¯›è±†é»‘ç‚¹ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†é»‘ç‚¹ç—…,ç±½ç²’,å±å®³éƒ¨ä½
-æ¯›è±†è½®çº¹ç—…,å­å¶,å±å®³éƒ¨ä½
-æ¯›è±†è½®çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†è½®çº¹ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ¯›è±†è½®çº¹ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-æ¯›è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ¯›è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,èŒå’Œ,å±å®³éƒ¨ä½
-æ¯›è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ¯›è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,ç±½ç²’,å±å®³éƒ¨ä½
-æ¯›è±†ç¾èç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ¯›è±†ç¾èç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†ç¾èç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ¯›è±†ç¾èç—…,èŒæ†,å±å®³éƒ¨ä½
-æ¯›è±†ç¾èç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†ç´«æ–‘ç—…,å­å¶,å±å®³éƒ¨ä½
-æ¯›è±†ç´«æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ¯›è±†ç´«æ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-æ¯›è±†ç´«æ–‘ç—…,è±†èš,å±å®³éƒ¨ä½
-æ¯›è±†ç´«æ–‘ç—…,ç§å­,å±å®³éƒ¨ä½
-è±Œè±†è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±Œè±†è¤çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±Œè±†è¤çº¹ç—…,å¶æŸ„åŠèŒ,å±å®³éƒ¨ä½
-è±Œè±†ç™½ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±Œè±†ç™½ç²‰ç—…,èŒèš,å±å®³éƒ¨ä½
-è±Œè±†åŸºè…ç—…,ç§å­,å±å®³éƒ¨ä½
-è±Œè±†åŸºè…ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦æ¯èç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦æ¯èç—…,æˆæ ª,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦è”“æ¯ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦è”“æ¯ç—…,æˆæ ª,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦ç»µè…ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦ç»µè…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦è½¯è…ç—…,æ ¹èŒ,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦è½¯è…ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦ç—…æ¯’ç—…,èŠ±å¶å‹,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦ç—…æ¯’ç—…,è•¨å¶,å±å®³éƒ¨ä½
-å†¬ç“œé»‘æ˜Ÿç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å†¬ç“œé»‘æ˜Ÿç—…,å«©èŒ,å±å®³éƒ¨ä½
-å†¬ç“œé»‘æ˜Ÿç—…,å¶æŸ„,å±å®³éƒ¨ä½
-å†¬ç“œé»‘æ˜Ÿç—…,ç“œè”“,å±å®³éƒ¨ä½
-å†¬ç“œç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-å†¬ç“œç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å†¬ç“œå¶æ–‘ç—…,è‘«èŠ¦,å±å®³éƒ¨ä½
-å†¬ç“œç–«ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-å†¬ç“œç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å†¬ç“œç–«ç—…,æœå®,å±å®³éƒ¨ä½
-å†¬ç“œæ¯èç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å†¬ç“œæ¯èç—…,æˆæ ª,å±å®³éƒ¨ä½
-å†¬ç“œè”“æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-å†¬ç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å†¬ç“œç»†èŒæ€§è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å†¬ç“œç»†èŒæ€§è§’æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-å†¬ç“œç»†èŒæ€§è§’æ–‘ç—…,å·é¡»,å±å®³éƒ¨ä½
-å†¬ç“œç°æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å†¬ç“œèŒæ ¸ç—…,æœå®,å±å®³éƒ¨ä½
-å†¬ç“œèŒæ ¸ç—…,èŒè”“,å±å®³éƒ¨ä½
-å†¬ç“œèŒæ ¸ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-å†¬ç“œèŒæ ¸ç—…,å¹¼æœ,å±å®³éƒ¨ä½
-ç“ ç“œç™½ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç“ ç“œç™½ç²‰ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç“ ç“œç™½ç²‰ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç“ ç“œç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç“ ç“œç‚­ç–½ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç“ ç“œç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç“ ç“œç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-ç“ ç“œç°éœ‰ç—…,èŠ±å’Œ,å±å®³éƒ¨ä½
-ç“ ç“œç°éœ‰ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç“ ç“œç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç“ ç“œç»†èŒæ€§è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç“ ç“œç»†èŒæ€§è§’æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-ç“ ç“œè”“æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç“ ç“œè”“æ¯ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç“ ç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ä¸ç“œæ¯èç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-ä¸ç“œæ¯èç—…,æˆæ ª,å±å®³éƒ¨ä½
-ä¸ç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ä¸ç“œè”“æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-ä¸ç“œè”“æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-ä¸ç“œç»µè…ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-ä¸ç“œç»µè…ç—…,æˆæ ª,å±å®³éƒ¨ä½
-ä¸ç“œç»†èŒæ€§è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ä¸ç“œç»†èŒæ€§è§’æ–‘ç—…,èŒå’Œ,å±å®³éƒ¨ä½
-ä¸ç“œç»†èŒæ€§è§’æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-ä¸ç“œç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ä¸ç“œç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ä¸ç“œç‚­ç–½ç—…,èŒè”“,å±å®³éƒ¨ä½
-ä¸ç“œç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-ä¸ç“œç–«ç—…,æœå®,å±å®³éƒ¨ä½
-ä¸ç“œç–«ç—…,èŒè”“,å±å®³éƒ¨ä½
-ä¸ç“œç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å—ç“œé»‘æ˜Ÿç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å—ç“œé»‘æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å—ç“œé»‘æ˜Ÿç—…,èŒè”“,å±å®³éƒ¨ä½
-å—ç“œé»‘æ˜Ÿç—…,æœå®,å±å®³éƒ¨ä½
-å—ç“œç–«ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-å—ç“œç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å—ç“œç–«ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-å—ç“œç–«ç—…,æœå®,å±å®³éƒ¨ä½
-å—ç“œæ¯èç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å—ç“œæ¯èç—…,æˆæ ª,å±å®³éƒ¨ä½
-å—ç“œç—…æ¯’ç—…,èŠ±å¶å‹,å±å®³éƒ¨ä½
-å—ç“œç—…æ¯’ç—…,è•¨å¶,å±å®³éƒ¨ä½
-å—ç“œæ–‘ç‚¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å—ç“œæ–‘ç‚¹ç—…,èŠ±è½´,å±å®³éƒ¨ä½
-å—ç“œé»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å—ç“œé»‘æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-å—ç“œç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å—ç“œç‚­ç–½ç—…,èŒæˆ–,å±å®³éƒ¨ä½
-å—ç“œç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-å—ç“œç‚­ç–½ç—…,æœå®,å±å®³éƒ¨ä½
-å—ç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å—ç“œè”“æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-å—ç“œè”“æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-å—ç“œé“¶å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å—ç“œé“¶å¶ç—…,æœå®,å±å®³éƒ¨ä½
-é£ç¢Ÿç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é£ç¢Ÿç“œè”“æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-é£ç¢Ÿç“œè”“æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-è¾£æ¤’ç«‹æ¯ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è¾£æ¤’æ ¹è…ç—…,ç§å­,å±å®³éƒ¨ä½
-è¾£æ¤’ç–®ç—‚ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è¾£æ¤’ç–®ç—‚ç—…,æˆæ ª,å±å®³éƒ¨ä½
-è¾£æ¤’ç—…æ¯’ç—…,èŠ±å¶å‹,å±å®³éƒ¨ä½
-è¾£æ¤’ç™½æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¾£æ¤’ç™½æ–‘ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è¾£æ¤’éœœéœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¾£æ¤’éœœéœ‰ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è¾£æ¤’éœœéœ‰ç—…,å«©èŒ,å±å®³éƒ¨ä½
-èŒ„å­æ£’å­¢å¶æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ„å­æ£’å­¢å¶æ–‘ç—…,èŒåŸºéƒ¨,å±å®³éƒ¨ä½
-èŒ„å­æ£’å­¢å¶æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­è¤çº¹ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-èŒ„å­è¤çº¹ç—…,æˆæ ª,å±å®³éƒ¨ä½
-èŒ„å­è¤çº¹ç—…,èŒæ,å±å®³éƒ¨ä½
-èŒ„å­è¤çº¹ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­è¤çº¹ç—…,ç§å­,å±å®³éƒ¨ä½
-èŒ„å­å¶éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ„å­å¶éœ‰ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-èŒ„å­å¶éœ‰ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-èŒ„å­å¶éœ‰ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­ç°éœ‰ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-èŒ„å­ç°éœ‰ç—…,æˆæ ª,å±å®³éƒ¨ä½
-èŒ„å­èŒæ ¸ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-èŒ„å­èŒæ ¸ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ„å­èŒæ ¸ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-èŒ„å­èŒæ ¸ç—…,èŠ±è•¾,å±å®³éƒ¨ä½
-èŒ„å­èŒæ ¸ç—…,èŠ±æŸ„,å±å®³éƒ¨ä½
-èŒ„å­èŒæ ¸ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­ç»µç–«ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-èŒ„å­ç»µç–«ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­ç»µç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ„å­ç»µç–«ç—…,å«©æ,å±å®³éƒ¨ä½
-èŒ„å­é’æ¯ç—…,æ•´æ ª,å±å®³éƒ¨ä½
-èŒ„å­é’æ¯ç—…,èŒåŸºéƒ¨,å±å®³éƒ¨ä½
-èŒ„å­é»‘æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ„å­é»‘æ¯ç—…,æœæ¢—,å±å®³éƒ¨ä½
-èŒ„å­é»‘æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­æ‹Ÿé»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ„å­æ‹Ÿé»‘æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­æœå®ç–«ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-èŒ„å­æœå®ç–«ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­èŠ±è…ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ„å­ç»†èŒæ€§è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ„å­ç»†èŒæ€§è¤æ–‘ç—…,èŠ±è•¾,å±å®³éƒ¨ä½
-èŒ„å­ç»†èŒæ€§è¤æ–‘ç—…,å«©æ,å±å®³éƒ¨ä½
-èŒ„å­ç»†èŒæ€§è¤æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-é»„ç“œéœœéœ‰ç—…,å­å¶,å±å®³éƒ¨ä½
-é»„ç“œéœœéœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œç–«ç—…,èŒåŸºéƒ¨,å±å®³éƒ¨ä½
-é»„ç“œé»‘æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œé»‘æ˜Ÿç—…,èŒè”“,å±å®³éƒ¨ä½
-é»„ç“œé»‘æ˜Ÿç—…,ç“œæ¡,å±å®³éƒ¨ä½
-é»„ç“œé»‘æ˜Ÿç—…,å·é¡»,å±å®³éƒ¨ä½
-é»„ç“œé»‘æ˜Ÿç—…,æ•´æ ª,å±å®³éƒ¨ä½
-é»„ç“œç°è‰²ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œç°è‰²ç–«ç—…,èŒè”“,å±å®³éƒ¨ä½
-é»„ç“œç°è‰²ç–«ç—…,ç“œæ¡,å±å®³éƒ¨ä½
-é»„ç“œæ¯èç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é»„ç“œæ¯èç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œæ¯èç—…,æ ¹å’ŒèŒ,å±å®³éƒ¨ä½
-é»„ç“œè”“æ¯ç—…,èŒè”“,å±å®³éƒ¨ä½
-é»„ç“œè”“æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œè”“æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-é»„ç“œçŒå€’ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é»„ç“œçŒå€’ç—…,ç“œæ¡,å±å®³éƒ¨ä½
-é»„ç“œç«‹æ¯ç—…,èŒåŸºéƒ¨,å±å®³éƒ¨ä½
-é»„ç“œç«‹æ¯ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-é»„ç“œç«‹æ¯ç—…,æ•´æ ª,å±å®³éƒ¨ä½
-é»„ç“œèŒæ ¸ç—…,èŒè”“,å±å®³éƒ¨ä½
-é»„ç“œèŒæ ¸ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-é»„ç“œèŒæ ¸ç—…,å¹¼æœ,å±å®³éƒ¨ä½
-é»„ç“œèŒæ ¸ç—…,ç“œæ¡,å±å®³éƒ¨ä½
-é»„ç“œç»†èŒæ€§è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œç»†èŒæ€§è§’æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-é»„ç“œç»†èŒæ€§è§’æ–‘ç—…,å·é¡»,å±å®³éƒ¨ä½
-é»„ç“œç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é»„ç“œç‚­ç–½ç—…,æˆæ ª,å±å®³éƒ¨ä½
-é»„ç“œç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œæ ¹è…ç—…,æ ¹å’Œ,å±å®³éƒ¨ä½
-é»„ç“œæ ¹è…ç—…,æ ¹èŒéƒ¨,å±å®³éƒ¨ä½
-é»„ç“œç»†èŒæ€§ç¼˜æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œç»†èŒæ€§ç¼˜æ¯ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-é»„ç“œç»†èŒæ€§ç¼˜æ¯ç—…,å·é¡»,å±å®³éƒ¨ä½
-é»„ç“œç»†èŒæ€§ç¼˜æ¯ç—…,ç“œæ¡,å±å®³éƒ¨ä½
-é»„ç“œç—…æ¯’ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„ç“œç—…æ¯’ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-é»„ç“œå¹¼è‹—è…éœ‰æ ¹è…ç—…,å¹¼è‹—æœŸ,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦é»‘æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦é»‘æ˜Ÿç—…,æœå®,å±å®³éƒ¨ä½
-èŒ¼è’¿ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠ«è½ç«‹æ¯ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-èŠ«è½ç«‹æ¯ç—…,å¤§è‹—,å±å®³éƒ¨ä½
-èŠ«è½å¶æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠ«è½å¶æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-èŠ«è½æ ªè…ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-èŠ«è½ç™½ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„æ—©ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„æ—©ç–«ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç•ªèŒ„æ—©ç–«ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„æ—©ç–«ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„æ™šç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„æ™šç–«ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„æ™šç–«ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„å¶éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„å¶éœ‰ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„å¶éœ‰ç—…,èŠ±æœ,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°å¶æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°å¶æ–‘ç—…,èŠ±æœµ,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°å¶æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°æ–‘ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°æ–‘ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç…¤æ±¡ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„ç…¤æ±¡ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„æ–‘æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„æ–‘æ¯ç—…,å¶æŸ„å’ŒèŒ,å±å®³éƒ¨ä½
-ç•ªèŒ„æ–‘æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°éœ‰ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°éœ‰ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°éœ‰ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç°éœ‰ç—…,èŠ±è¼,å±å®³éƒ¨ä½
-ç•ªèŒ„ç™½ç»¢ç—…,èŒåŸºéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç™½ç»¢ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»µç–«ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»µç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„çº¢ç²‰ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„çº¢ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„èŒåŸºè…ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-ç•ªèŒ„ä¸›æç—…,æ¤æ ª,å±å®³éƒ¨ä½
-ç•ªèŒ„ä¸›æç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„ä¸›æç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„èŒæ ¸ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„èŒæ ¸ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„èŒæ ¸ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç–«éœ‰æ ¹è…ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§æ–‘ç–¹ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§æ–‘ç–¹ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§æ–‘ç–¹ç—…,èŠ±è•¾,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§æ–‘ç–¹ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§æ–‘ç–¹ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç•ªèŒ„æºƒç–¡ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-ç•ªèŒ„æºƒç–¡ç—…,æˆæ ª,å±å®³éƒ¨ä½
-ç•ªèŒ„æºƒç–¡ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„é’æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„é’æ¯ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç–®ç—‚ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç–®ç—‚ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç–®ç—‚ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§é«“éƒ¨åæ­»ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§é«“éƒ¨åæ­»ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§é«“éƒ¨åæ­»ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„è½¯è…ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„è½¯è…ç—…,èŒæ†,å±å®³éƒ¨ä½
-ç•ªèŒ„æ¡æ–‘ç—…æ¯’ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„æ¡æ–‘ç—…æ¯’ç—…,èŒæ†,å±å®³éƒ¨ä½
-ç•ªèŒ„æ¡æ–‘ç—…æ¯’ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„æ–‘èç—…æ¯’ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-ç•ªèŒ„æ–‘èç—…æ¯’ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„æ ¹ç»“çº¿è™«ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„åœ†çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„åœ†çº¹ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„èŒæ¯ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„èŒæ¯ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„èŒæ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„å˜å½¢æœ,å¤šè•Šæœ,å±å®³éƒ¨ä½
-ç•ªèŒ„å˜å½¢æœ,æ¤­åœ†å½¢æœ,å±å®³éƒ¨ä½
-ç•ªèŒ„ä½æ¸©éšœç¢å’Œå†»å®³,å¹¼è‹—,å±å®³éƒ¨ä½
-ç•ªèŒ„ä½æ¸©éšœç¢å’Œå†»å®³,æˆæ ª,å±å®³éƒ¨ä½
-ç•ªèŒ„ä½æ¸©éšœç¢å’Œå†»å®³,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„é«˜æ¸©éšœç¢,å¶ç‰‡,å±å®³éƒ¨ä½
-ç•ªèŒ„é«˜æ¸©éšœç¢,èŠ±æœ,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§è¤æ–‘ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§è¤æ–‘ç—…,æœå®,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§è¤æ–‘ç—…,èŠ±è•¾,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§è¤æ–‘ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-ç•ªèŒ„ç»†èŒæ€§è¤æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è¾£æ¤’ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¾£æ¤’ç–«ç—…,æœå®,å±å®³éƒ¨ä½
-è¾£æ¤’æ—©ç–«ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-è¾£æ¤’æ—©ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¾£æ¤’ç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¾£æ¤’ç°éœ‰ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-è¾£æ¤’ç°éœ‰ç—…,æœå®,å±å®³éƒ¨ä½
-è¾£æ¤’èŒæ ¸ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è èœç—…æ¯’ç—…,èŠ±å¶å‹,å±å®³éƒ¨ä½
-èŠ¹èœç—…æ¯’ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-èŠ¹èœé»„èç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-èŠ¹èœå¶æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠ¹èœå¶æ–‘ç—…,èŒæˆ–,å±å®³éƒ¨ä½
-èŠ¹èœå¶æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è´ç¬‹ç°éœ‰ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-è´ç¬‹ç°éœ‰ç—…,æˆæ ª,å±å®³éƒ¨ä½
-è´ç¬‹èŒæ ¸ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è´ç¬‹èŒæ ¸ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è´ç¬‹ç—…æ¯’ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-è´ç¬‹ç—…æ¯’ç—…,æˆæ ª,å±å®³éƒ¨ä½
-è´ç¬‹è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è´ç¬‹è…è´¥ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”Ÿèœè¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”Ÿèœç—…æ¯’ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-ç”Ÿèœç—…æ¯’ç—…,æˆæ ª,å±å®³éƒ¨ä½
-è‹‹èœç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹‹èœç‚­ç–½ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è½è‘µç´«æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è½è‘µç´«æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è½è‘µç´«æ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-è½è‘µæ ¹ç»“çº¿è™«ç—…,å¶éƒ¨,å±å®³éƒ¨ä½
-è•¹èœç™½é”ˆç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è•¹èœç™½é”ˆç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-è•¹èœç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦ç»µç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦ç»µç–«ç—…,èŒè”“,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦ç»µç–«ç—…,æœå®,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦é“¶å¶ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è¥¿è‘«èŠ¦é“¶å¶ç—…,æœå®,å±å®³éƒ¨ä½
-è±Œè±†ç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±Œè±†ç°éœ‰ç—…,æœèš,å±å®³éƒ¨ä½
-è±Œè±†æ ¹ä¸²ç éœ‰æ ¹è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±Œè±†é»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è±Œè±†é»‘æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è±Œè±†é»‘æ–‘ç—…,èŒè”“,å±å®³éƒ¨ä½
-è±Œè±†é»‘æ–‘ç—…,è±†èš,å±å®³éƒ¨ä½
-è±Œè±†èŠ½æ¯ç—…,è±†èš,å±å®³éƒ¨ä½
-è‘¡è„æ ¹æœ½ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-è‘¡è„æ ¹æœ½ç—…,æ¤æ ª,å±å®³éƒ¨ä½
-è‘¡è„è”“å‰²ç—…,æè”“,å±å®³éƒ¨ä½
-è‘¡è„è”“å‰²ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‘¡è„è”“å‰²ç—…,æœå®,å±å®³éƒ¨ä½
-ç”œèœä¸›æ ¹ç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-ç”œèœä¸›æ ¹ç—…,å¶,å±å®³éƒ¨ä½
-ç”œèœè‹—è…ç—…,èŒåŸº,å±å®³éƒ¨ä½
-ç”œèœè‹—è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ¶é¥¼ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ¶åœ†èµ¤æ˜Ÿç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ¶åœ†èµ¤æ˜Ÿç—…,å¶,å±å®³éƒ¨ä½
-èŒ¶çº¢é”ˆè—»ç—…,æå¹²,å±å®³éƒ¨ä½
-èŒ¶çº¢é”ˆè—»ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ¶ç™½æ˜Ÿç—…,å«©å¶,å±å®³éƒ¨ä½
-èŒ¶ç™½æ˜Ÿç—…,å¶,å±å®³éƒ¨ä½
-èŒ¶ç™½æ˜Ÿç—…,åŠå«©,å±å®³éƒ¨ä½
-èŒ¶äº‘çº¹å¶æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŒ¶äº‘çº¹å¶æ¯ç—…,æå¹²,å±å®³éƒ¨ä½
-èŒ¶äº‘çº¹å¶æ¯ç—…,æœå®,å±å®³éƒ¨ä½
-èŒ¶æ ‘è‹”è—“ã€åœ°è¡£,è‹”è—“,å±å®³éƒ¨ä½
-èŒ¶æ ‘è‹”è—“ã€åœ°è¡£,åœ°è¡£,å±å®³éƒ¨ä½
-çƒŸè‰ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-çƒŸè‰ç‚­ç–½ç—…,èŒæ†,å±å®³éƒ¨ä½
-çƒŸè‰ç‚­ç–½ç—…,èŠ±,å±å®³éƒ¨ä½
-çƒŸè‰èŒæ ¸ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-çƒŸè‰ä½å¤´é»‘ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-çƒŸè‰ç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-çƒŸè‰ç°éœ‰ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-çƒŸè‰ç°éœ‰ç—…,èŒæ†,å±å®³éƒ¨ä½
-çƒŸè‰ç°éœ‰ç—…,èŠ±å™¨,å±å®³éƒ¨ä½
-çƒŸè‰æ–‘ç‚¹ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-çƒŸè‰éœœéœ‰ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-çƒŸè‰ç©ºèƒ«ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-çƒŸè‰é»‘èƒ«ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-çƒŸè‰é»‘èƒ«ç—…,èŒæ†,å±å®³éƒ¨ä½
-çƒŸè‰é»‘èƒ«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠ±ç”ŸèŒè…ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-èŠ±ç”ŸèŒè…ç—…,æˆæ ª,å±å®³éƒ¨ä½
-èŠ±ç”ŸèŒæ ¸ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠ±ç”ŸèŒæ ¸ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-èŠ±ç”ŸèŒæ ¸ç—…,èšæœ,å±å®³éƒ¨ä½
-èŠ±ç”Ÿç½‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠ±ç”Ÿç½‘æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ²¹èœé»‘èƒ«ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ²¹èœé»‘èƒ«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ²¹èœé»‘èƒ«ç—…,æ ¹ã€èŒ,å±å®³éƒ¨ä½
-æ²¹èœé»‘èƒ«ç—…,æœèš,å±å®³éƒ¨ä½
-æ²¹èœé»‘èƒ«ç—…,ç§å­,å±å®³éƒ¨ä½
-æ²¹èœç«‹æ¯ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ²¹èœèŒæ ¸ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ²¹èœèŒæ ¸ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ²¹èœèŒæ ¸ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-æ²¹èœèŒæ ¸ç—…,æœèš,å±å®³éƒ¨ä½
-æ²¹èœéœœéœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ²¹èœéœœéœ‰ç—…,èŠ±æ¢—,å±å®³éƒ¨ä½
-æ²¹èœéœœéœ‰ç—…,æœèš,å±å®³éƒ¨ä½
-æ²¹èœç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ²¹èœç‚­ç–½ç—…,æœèš,å±å®³éƒ¨ä½
-æ²¹èœé»‘æ–‘ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ²¹èœé»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ²¹èœé»‘æ–‘ç—…,æœèš,å±å®³éƒ¨ä½
-æ²¹èœé»‘è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ²¹èœé»‘è…ç—…,æœèš,å±å®³éƒ¨ä½
-æ²¹èœè½¯è…ç—…,èŒæ†,å±å®³éƒ¨ä½
-æ²¹èœç»†èŒæ€§é»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ²¹èœç—…æ¯’ç—…,ç”˜è“,å±å®³éƒ¨ä½
-æ²¹èœç—…æ¯’ç—…,ç™½èœ,å±å®³éƒ¨ä½
-èŠéº»ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠéº»ç–«ç—…,èŒæ†,å±å®³éƒ¨ä½
-èŠéº»å¶æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠéº»å¶æ¯ç—…,èŒæ†,å±å®³éƒ¨ä½
-èŠéº»å¶æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠéº»å¶æ–‘ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-èŠéº»é’æ¯ç—…,èŒæ†,å±å®³éƒ¨ä½
-èŠéº»é’æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠéº»ç»†èŒæ€§è§’æ–‘ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-èŠéº»ç»†èŒæ€§è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-èŠéº»ç»†èŒæ€§è§’æ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-å‘æ—¥è‘µèŒæ ¸ç—…,æ ¹è…,å±å®³éƒ¨ä½
-å‘æ—¥è‘µèŒæ ¸ç—…,èŒè…,å±å®³éƒ¨ä½
-å‘æ—¥è‘µèŒæ ¸ç—…,å¶è…,å±å®³éƒ¨ä½
-å‘æ—¥è‘µé»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å‘æ—¥è‘µé»‘æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-å‘æ—¥è‘µé»‘æ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-å‘æ—¥è‘µé»‘æ–‘ç—…,èŠ±ç“£,å±å®³éƒ¨ä½
-ç”˜è”—èµ¤è…ç—…,èŒç§†,å±å®³éƒ¨ä½
-ç”˜è”—èµ¤è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”˜è”—çœ¼æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œèœç«‹æ¯ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-ç”œèœè¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”œèœè¤æ–‘ç—…,å¶,å±å®³éƒ¨ä½
-ç”œèœè¤æ–‘ç—…,å’ŒèŒéƒ¨,å±å®³éƒ¨ä½
-äºšéº»ç‚­ç–½ç—…,å­å¶,å±å®³éƒ¨ä½
-äºšéº»ç‚­ç–½ç—…,å¶,å±å®³éƒ¨ä½
-äºšéº»ç‚­ç–½ç—…,åŠèŒéƒ¨,å±å®³éƒ¨ä½
-çº¢éº»ç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-çº¢éº»ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-çº¢éº»ç‚­ç–½ç—…,èŒæ†,å±å®³éƒ¨ä½
-çº¢éº»ç‚­ç–½ç—…,èŠ±è•¾,å±å®³éƒ¨ä½
-çº¢éº»æ–‘ç‚¹ç—…,å­å¶,å±å®³éƒ¨ä½
-çº¢éº»æ–‘ç‚¹ç—…,çœŸå¶,å±å®³éƒ¨ä½
-çº¢éº»æ–‘ç‚¹ç—…,èŒæ†,å±å®³éƒ¨ä½
-çº¢éº»æ–‘ç‚¹ç—…,è’´æœ,å±å®³éƒ¨ä½
-çº¢éº»ç°éœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-çº¢éº»ç°éœ‰ç—…,èŒæ†,å±å®³éƒ¨ä½
-çº¢éº»ç°éœ‰ç—…,èŠ±è•¾,å±å®³éƒ¨ä½
-é»„éº»æ ¹è…ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-è‹éº»ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹éº»ç‚­ç–½ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-è‹éº»ç‚­ç–½ç—…,èŒæ†,å±å®³éƒ¨ä½
-è‹éº»è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‹éº»è¤æ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-è‹éº»èŠ±å¶ç—…,èŠ±å¶å‹,å±å®³éƒ¨ä½
-å¤§è±†éœœéœ‰ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å¤§è±†éœœéœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†éœœéœ‰ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†æ¯èç—…,æ•´æ ª,å±å®³éƒ¨ä½
-å¤§è±†æ¯èç—…,æ ¹ç³»,å±å®³éƒ¨ä½
-å¤§è±†æ¯èç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-å¤§è±†ç´«æ–‘ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å¤§è±†ç´«æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†ç´«æ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-å¤§è±†ç´«æ–‘ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†ç´«æ–‘ç—…,ç§å­,å±å®³éƒ¨ä½
-å¤§è±†ç°æ–‘ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å¤§è±†ç°æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†ç°æ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-å¤§è±†ç°æ–‘ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†ç°æ–‘ç—…,ç§å­,å±å®³éƒ¨ä½
-å¤§è±†è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†è¤æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-å¤§è±†è¤æ–‘ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†çº¹æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†ç¾èç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å¤§è±†è½®çº¹ç—…,å­å¶,å±å®³éƒ¨ä½
-å¤§è±†è½®çº¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†è½®çº¹ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-å¤§è±†è½®çº¹ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-å¤§è±†èšæ¯ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†ç–«ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-å¤§è±†ç–«ç—…,æˆæ ª,å±å®³éƒ¨ä½
-å¤§è±†ç–«ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†ç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å¤§è±†ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†ç‚­ç–½ç—…,èŒæ†,å±å®³éƒ¨ä½
-å¤§è±†ç‚­ç–½ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†é»‘ç‚¹ç—…,èŒç§†,å±å®³éƒ¨ä½
-å¤§è±†é»‘ç‚¹ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å¤§è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,è±†èš,å±å®³éƒ¨ä½
-å¤§è±†ç»†èŒæ€§æ–‘ç‚¹ç—…,ç±½ç²’,å±å®³éƒ¨ä½
-å¤§è±†ç»†èŒæ€§æ–‘ç–¹ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§è±†ç»†èŒæ€§æ–‘ç–¹ç—…,è±†èš,å±å®³éƒ¨ä½
-é«˜ç²±ç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é«˜ç²±ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é«˜ç²±ç‚­ç–½ç—…,å¶é˜,å±å®³éƒ¨ä½
-é«˜ç²±ç‚­ç–½ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-é«˜ç²±æŸ±é»‘ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é«˜ç²±æŸ±é»‘ç²‰ç—…,èŒç§†,å±å®³éƒ¨ä½
-é«˜ç²±æŸ±é»‘ç²‰ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-é«˜ç²±é•°åˆ€èŒç©—è…ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-é«˜ç²±é•°åˆ€èŒç©—è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é«˜ç²±é•°åˆ€èŒç©—è…ç—…,èŒç§†,å±å®³éƒ¨ä½
-é«˜ç²±ç´«æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é«˜ç²±ç´«æ–‘ç—…,å¶é˜,å±å®³éƒ¨ä½
-é«˜ç²±ç´«è½®ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é«˜ç²±ç´«è½®ç—…,å¶é˜,å±å®³éƒ¨ä½
-ç²Ÿç™½å‘ç—…,çƒ‚èŠ½,å±å®³éƒ¨ä½
-ç²Ÿèƒ¡éº»æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç²Ÿèƒ¡éº»æ–‘ç—…,å¶é˜,å±å®³éƒ¨ä½
-ç²Ÿèƒ¡éº»æ–‘ç—…,é¢–å£³,å±å®³éƒ¨ä½
-ç”˜è–¯ç–®ç—‚ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”˜è–¯ç–®ç—‚ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-ç”˜è–¯ç–®ç—‚ç—…,å«©æ¢¢,å±å®³éƒ¨ä½
-ç”˜è–¯ç–®ç—‚ç—…,è–¯å—,å±å®³éƒ¨ä½
-ç”˜è–¯é»‘æ–‘ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-ç”˜è–¯ç˜Ÿç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-ç”˜è–¯ç˜Ÿç—…,è–¯å—,å±å®³éƒ¨ä½
-ç”˜è–¯ç—…æ¯’ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç”˜è–¯ç—…æ¯’ç—…,è–¯å—,å±å®³éƒ¨ä½
-ç”˜è–¯èŒçº¿è™«ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-ç”˜è–¯èŒçº¿è™«ç—…,èŒè”“,å±å®³éƒ¨ä½
-ç”˜è–¯èŒçº¿è™«ç—…,è–¯å—,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯æ—©ç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯æ—©ç–«ç—…,å—èŒ,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯æ™šç–«ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯æ™šç–«ç—…,è–¯å—,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯æ™šç–«ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯é»‘èƒ«ç—…,è–¯å—,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯é»‘èƒ«ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯ç²‰ç—‚ç—…,å—èŒ,å±å®³éƒ¨ä½
-é©¬é“ƒè–¯ç²‰ç—‚ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ£‰èŠ±ç‚­ç–½ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-æ£‰èŠ±çº¢è…ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-æ£‰èŠ±æ¯èç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-æ£‰èŠ±æ¯èç—…,æˆæ ª,å±å®³éƒ¨ä½
-æ£‰èŠ±ç–«ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-æ£‰èŠ±ç–«ç—…,é“ƒæœŸ,å±å®³éƒ¨ä½
-æ£‰èŠ±èŒæ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ£‰èŠ±èŒæ¯ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-æ£‰èŠ±èŒæ¯ç—…,èŒæ†,å±å®³éƒ¨ä½
-æ£‰èŠ±èŒæ¯ç—…,æ£‰é“ƒ,å±å®³éƒ¨ä½
-æ£‰èŠ±è§’æ–‘ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ£‰èŠ±è§’æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ£‰èŠ±è§’æ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-æ£‰èŠ±è§’æ–‘ç—…,æ£‰é“ƒ,å±å®³éƒ¨ä½
-å¤§éº¦æ¡çº¹ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-å¤§éº¦æ¡çº¹ç—…,æˆæ ª,å±å®³éƒ¨ä½
-é»„éº»è‹—æ¯ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é»„éº»é»‘ç‚¹ç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é»„éº»é»‘ç‚¹ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„éº»é»‘ç‚¹ç‚­ç–½ç—…,èŒæ†,å±å®³éƒ¨ä½
-é»„éº»å¶æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„éº»å¶æ¯ç—…,èŒæ†,å±å®³éƒ¨ä½
-é»„éº»èŒæ–‘ç—…,å­å¶,å±å®³éƒ¨ä½
-é»„éº»èŒæ–‘ç—…,çœŸå¶,å±å®³éƒ¨ä½
-é»„éº»èŒæ–‘ç—…,èŒæ†,å±å®³éƒ¨ä½
-ç‰ç±³ç–¯é¡¶ç—…,è‹—,å±å®³éƒ¨ä½
-ç‰ç±³èŒè…ç—…,æ ¹,å±å®³éƒ¨ä½
-ç‰ç±³èŒè…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç‰ç±³åœ†æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç‰ç±³åœ†æ–‘ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-ç‰ç±³åœ†æ–‘ç—…,å¶é˜,å±å®³éƒ¨ä½
-ç‰ç±³å¹²è…ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-ç‰ç±³å¹²è…ç—…,èŒç§†,å±å®³éƒ¨ä½
-ç‰ç±³å¹²è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç‰ç±³ä¸é»‘ç©—ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-ç‰ç±³ä¸é»‘ç©—ç—…,é›„ç©—,å±å®³éƒ¨ä½
-ç‰ç±³ä¸é»‘ç©—ç—…,é›Œç©—,å±å®³éƒ¨ä½
-é»„éº»ç‚­ç–½ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é»„éº»ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„éº»ç‚­ç–½ç—…,èŒæ†,å±å®³éƒ¨ä½
-é»„éº»æ¯è…ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-é»„éº»æ¯è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é»„éº»æ¯è…ç—…,èŒéƒ¨,å±å®³éƒ¨ä½
-é»„éº»æ¯è…ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-å‘æ—¥è‘µè¤æ–‘ç—…,å­å¶,å±å®³éƒ¨ä½
-å‘æ—¥è‘µè¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å‘æ—¥è‘µè¤æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-å‘æ—¥è‘µç™½ç²‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å‘æ—¥è‘µç™½ç²‰ç—…,èŒæ†,å±å®³éƒ¨ä½
-å‘æ—¥è‘µéœœéœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å‘æ—¥è‘µç»†èŒæ€§èŒè…ç—…,èŒæ†,å±å®³éƒ¨ä½
-å‘æ—¥è‘µç»†èŒæ€§èŒè…ç—…,èŠ±ç›˜,å±å®³éƒ¨ä½
-è‘±ç‚­ç–½ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-è‘±ç‚­ç–½ç—…,é³èŒ,å±å®³éƒ¨ä½
-è‘±é»„çŸ®ç—…,å¤§è‘±,å±å®³éƒ¨ä½
-è‘±é»„çŸ®ç—…,æ´‹,å±å®³éƒ¨ä½
-å¤§ç™½èœéœœéœ‰ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å¤§ç™½èœéœœéœ‰ç—…,æˆæ ª,å±å®³éƒ¨ä½
-å¤§ç™½èœéœœéœ‰ç—…,ç§èš,å±å®³éƒ¨ä½
-å¤§ç™½èœé»‘æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§ç™½èœé»‘æ–‘ç—…,å¶æŸ„,å±å®³éƒ¨ä½
-é’èŠ±èœé»‘èƒ«ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-é’èŠ±èœé»‘èƒ«ç—…,æˆæ ª,å±å®³éƒ¨ä½
-ç‰ç±³æ¡çº¹çŸ®ç¼©ç—…,æ•´æ ª,å±å®³éƒ¨ä½
-ç‰ç±³æ¡çº¹çŸ®ç¼©ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å¤§ç™½èœé»‘èƒ«ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å¤§ç™½èœé»‘èƒ«ç—…,æˆæ ª,å±å®³éƒ¨ä½
-é’èŠ±èœéœœéœ‰ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-é’èŠ±èœéœœéœ‰ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-é’èŠ±èœéœœéœ‰ç—…,èŠ±çƒ,å±å®³éƒ¨ä½
-é’èŠ±èœç°éœ‰ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-é’èŠ±èœç°éœ‰ç—…,æˆæ ª,å±å®³éƒ¨ä½
-ç¨»ç˜Ÿç—…,è‹—ç˜Ÿ,å±å®³éƒ¨ä½
-ç¨»ç˜Ÿç—…,å¶ç˜Ÿ,å±å®³éƒ¨ä½
-ç¨»ç˜Ÿç—…,è°·ç²’ç˜Ÿ,å±å®³éƒ¨ä½
-æ°´ç¨»æ¶è‹—ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-æ°´ç¨»èŒæ ¸ç§†è…ç—…,èŒç§†,å±å®³éƒ¨ä½
-æ°´ç¨»èŒæ ¸ç§†è…ç—…,å¶é˜,å±å®³éƒ¨ä½
-æ°´ç¨»çº¹æ¯ç—…,å¶é˜,å±å®³éƒ¨ä½
-æ°´ç¨»çº¹æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ°´ç¨»èƒ¡éº»æ–‘ç—…,å¹¼èŠ½,å±å®³éƒ¨ä½
-æ°´ç¨»èƒ¡éº»æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ°´ç¨»èƒ¡éº»æ–‘ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-æ°´ç¨»ä¸œæ ¼é²ç—…æ¯’ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ°´ç¨»å€’ä¼,å¶ç‰‡,å±å®³éƒ¨ä½
-æ°´ç¨»éœœéœ‰ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-æ°´ç¨»çª„æ¡æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ°´ç¨»çª„æ¡æ–‘ç—…,å¶é˜,å±å®³éƒ¨ä½
-æ°´ç¨»çª„æ¡æ–‘ç—…,èŒç§†,å±å®³éƒ¨ä½
-æ°´ç¨»çª„æ¡æ–‘ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-æ°´ç¨»çª„æ¡æ–‘ç—…,è°·ç²’,å±å®³éƒ¨ä½
-æ°´ç¨»å¶å°–æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ°´ç¨»å¶å°–æ¯ç—…,è°·ç²’,å±å®³éƒ¨ä½
-æ°´ç¨»ç™½å¶æ¯ç—…,å¶æ¯,å±å®³éƒ¨ä½
-æ°´ç¨»ç»†èŒæ€§è¤æ–‘ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-æ°´ç¨»ç»†èŒæ€§è¤æ–‘ç—…,å¶é˜,å±å®³éƒ¨ä½
-æ°´ç¨»ç»†èŒæ€§è¤æ–‘ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-æ°´ç¨»é»‘æ¡çŸ®ç¼©ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-æ°´ç¨»é»‘æ¡çŸ®ç¼©ç—…,å¶,å±å®³éƒ¨ä½
-æ°´ç¨»é»‘æ¡çŸ®ç¼©ç—…,ç©—,å±å®³éƒ¨ä½
-æ°´ç¨»æ ¹ç»“çº¿è™«ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-å°éº¦ç§†æ¯ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-å°éº¦å…¨èš€ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-å°éº¦æ¡é”ˆç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-å°éº¦éœœéœ‰ç—…,è‹—æœŸ,å±å®³éƒ¨ä½
-å°éº¦éœœéœ‰ç—…,ç©—æœŸ,å±å®³éƒ¨ä½
-å°éº¦é›ªéœ‰å¶æ¯ç—…,èŠ½è…,å±å®³éƒ¨ä½
-å°éº¦é›ªéœ‰å¶æ¯ç—…,åŸºè…,å±å®³éƒ¨ä½
-å°éº¦é›ªéœ‰å¶æ¯ç—…,å¶æ¯,å±å®³éƒ¨ä½
-å°éº¦é›ªéœ‰å¶æ¯ç—…,ç©—è…,å±å®³éƒ¨ä½
-å°éº¦ç™½ç§†ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å°éº¦ç™½ç§†ç—…,èŒ,å±å®³éƒ¨ä½
-å°éº¦ç™½ç§†ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-å°éº¦æ ¹è…ç—…,å¹¼è‹—,å±å®³éƒ¨ä½
-å°éº¦æ ¹è…ç—…,æ ¹éƒ¨,å±å®³éƒ¨ä½
-å°éº¦æ ¹è…ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å°éº¦æ ¹è…ç—…,èŒèŠ‚,å±å®³éƒ¨ä½
-å°éº¦æ ¹è…ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-å°éº¦èµ¤éœ‰ç—…,è‹—è…,å±å®³éƒ¨ä½
-å°éº¦èµ¤éœ‰ç—…,èŒåŸºè…,å±å®³éƒ¨ä½
-å°éº¦èµ¤éœ‰ç—…,ç§†è…,å±å®³éƒ¨ä½
-å°éº¦èµ¤éœ‰ç—…,ç©—è…,å±å®³éƒ¨ä½
-å°éº¦é¢–æ¯ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-å°éº¦é¢–æ¯ç—…,èŒèŠ‚,å±å®³éƒ¨ä½
-å°éº¦é¢–æ¯ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å°éº¦é»‘é¢–ç—…,ç©—éƒ¨,å±å®³éƒ¨ä½
-å°éº¦é»‘é¢–ç—…,å¶ç‰‡,å±å®³éƒ¨ä½
-å°éº¦é»‘é¢–ç—…,èŒç§†,å±å®³éƒ¨ä½
-å°éº¦é»‘é¢–ç—…,ç©—è½´,å±å®³éƒ¨ä½
+number,Chinese entity name,entity binomial scientific name,Chinese part,English part,Chinese relation,English relation
+1,²İİ®¸ù¸¯²¡,Phytophthora fragariae,²İİ®,strawberry,Î£º¦²¿Î»,InflictHarmPart
+2,²İİ®¸ï¸¯²¡,Phytophthora fragariae,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+3,²İİ®¸ï¸¯²¡,Phytophthora fragariae,Ğ¡Ãç,Seedling,Î£º¦²¿Î»,InflictHarmPart
+4,ÊÁ·è²¡,Persimmon witches broom,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+5,ÊÁÌ¿¾Ò²¡,Kaki Persimmon anthracnose,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+6,ÊÁÌ¿¾Ò²¡,Kaki Persimmon anthracnose,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+7,ÊÁÌ¿¾Ò²¡,Kaki Persimmon anthracnose,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+8,ÊÁ»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+9,ÊÁ»ÒÃ¹²¡,Botrytis cinerea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+10,ÊÁ½Ç°ß²¡,Cercospora kaki,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+11,ÊÁ½Ç°ß²¡,Cercospora kaki,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+12,ÊÁÔ²°ß²¡,Mycosphaerella nawae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+13,ÊÁÔ²°ß²¡,Mycosphaerella nawae,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+14,ÊÁºÚĞÇ²¡,Fusicladium kaki,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+15,ÊÁºÚĞÇ²¡,Fusicladium kaki,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+16,ÊÁºÚĞÇ²¡,Fusicladium kaki,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+17,Ê¯Áñ¸É¸¯²¡,Botryosphaeria dothidea,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+18,Ê¯Áñ¸É¸¯²¡,Botryosphaeria dothidea,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+19,Ê¯Áñ¸É¸¯²¡,Botryosphaeria dothidea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+20,Ê¯ÁñºÚ°ß²¡,Alternaria alternata,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+21,¸ÌéÙ´¯ğè²¡,Elsino? fawcettii,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+22,¸ÌéÙ´¯ğè²¡,Elsino? fawcettii,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+23,¸ÌéÙ´¯ğè²¡,Elsino? fawcettii,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+24,¸ÌéÙ´¯ğè²¡,Elsino? fawcettii,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+25,¸ÌéÙÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+26,¸ÌéÙÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+27,¸ÌéÙÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+28,¸ÌéÙÁÑÆ¤²¡,Citrus exocortis viroid,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+29,¸ÌéÙÁÑÆ¤²¡,Citrus exocortis viroid,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+30,¸ÌéÙÁÑÆ¤²¡,Citrus exocortis viroid,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+31,¸ÌéÙÁÑÆ¤²¡,Citrus exocortis viroid,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+32,¸ÌéÙÁÑÆ¤²¡,Citrus exocortis viroid,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+33,¸ÌéÙ»ÆÁú²¡,Citrus exocortis viroid,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+34,¸ÌéÙ»ÆÁú²¡,Citrus exocortis viroid,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+35,¸ÌéÙ»ÆÁú²¡,Citrus exocortis viroid,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+36,¸ÌéÙ»ÆÁú²¡,Citrus exocortis viroid,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+37,¸ÌéÙÀ£Ññ²¡,Xanthomonas citri subsp. citri,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+38,¸ÌéÙÀ£Ññ²¡,Xanthomonas citri subsp. citri,Ö¦ÉÒ,Branches,Î£º¦²¿Î»,InflictHarmPart
+39,¸ÌéÙÀ£Ññ²¡,Xanthomonas citri subsp. citri,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+40,¸ÌéÙÊ÷Ö¬²¡,Diaporthe citri,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+41,¸ÌéÙÊ÷Ö¬²¡,Diaporthe citri,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+42,¸ÌéÙÊ÷Ö¬²¡,Diaporthe citri,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+43,ÀóÖ¦ËªÒßÃ¹²¡,Peronophythora litchii,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+44,ÀóÖ¦ËªÒßÃ¹²¡,Peronophythora litchii,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+45,ÀóÖ¦ËªÒßÃ¹²¡,Peronophythora litchii,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+46,ÀóÖ¦Ì¿¾Ò²¡,Colletotrichum gloeosporioides,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+47,ÀóÖ¦Ì¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+48,ÀóÖ¦Ì¿¾Ò²¡,Colletotrichum gloeosporioides,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+49,ÀóÖ¦Ôå°ß²¡,Cephaleuros virescens,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+50,ÀóÖ¦Ôå°ß²¡,Cephaleuros virescens,Ê÷Æ¤,Bark,Î£º¦²¿Î»,InflictHarmPart
+51,èÁèË»Ò°ß²¡,Pestalotia funerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+52,èÁèË»Ò°ß²¡,Pestalotia funerea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+53,èÁèË°ßµã²¡,Loquat spotted disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+54,Ïã½¶ºÚĞÇ²¡,Macrophoma musae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+55,Ïã½¶ºÚĞÇ²¡,Macrophoma musae,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+56,Ïã½¶Êø¶¥²¡,Banana bunchy top virus,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+57,Ïã½¶Êø¶¥²¡,Banana bunchy top virus,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+58,Ïã½¶Êø¶¥²¡,Banana bunchy top virus,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+59,Ïã½¶Êø¶¥²¡,Banana bunchy top virus,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+60,Ïã½¶Êø¶¥²¡,Banana bunchy top virus,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+61,Ó£ÌÒºÖ¸¯²¡,Monilinia fructicola,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+62,Ó£ÌÒºÖ¸¯²¡,Monilinia fructicola,»¨¶ä,Flowers,Î£º¦²¿Î»,InflictHarmPart
+63,Ó£ÌÒºÖ¸¯²¡,Monilinia fructicola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+64,Ó£ÌÒÌ¿¾Ò²¡,Colletotrichum acutatum,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+65,Ó£ÌÒÌ¿¾Ò²¡,Colletotrichum acutatum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+66,Ã·»ÒÃ¹²¡,Botrytis cinerea,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+67,Ã·»ÒÃ¹²¡,Botrytis cinerea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+68,Ã·À£Ññ²¡,Ume plum canker,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+69,Ã·À£Ññ²¡,Ume plum canker,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+70,Ã·À£Ññ²¡,Ume plum canker,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+71,Ã·ºÚĞÇ²¡,Venturia nashicola,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+72,Ã·ºÚĞÇ²¡,Venturia nashicola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+73,Ã·ºÚĞÇ²¡,Venturia nashicola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+74,ÆÏÌÑ°×¸¯²¡,Coniothyrium diplodiella,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+75,ÆÏÌÑ°×¸¯²¡,Coniothyrium diplodiella,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+76,ÆÏÌÑ°×¸¯²¡,Coniothyrium diplodiella,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+77,ÆÏÌÑ´ó·¿¿İ²¡,Macrophoma fauriei,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+78,ÆÏÌÑºÚ¶»²¡,Elsino? ampelina,Ö¦Âû,Tendrils,Î£º¦²¿Î»,InflictHarmPart
+79,ÆÏÌÑºÚ¶»²¡,Elsino? ampelina,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+80,ÆÏÌÑºÚ¶»²¡,Elsino? ampelina,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+81,ÆÏÌÑ°×·Û²¡,Uncinula necator,Ö¦Âû,Tendrils,Î£º¦²¿Î»,InflictHarmPart
+82,ÆÏÌÑ°×·Û²¡,Uncinula necator,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+83,ÆÏÌÑ°×·Û²¡,Uncinula necator,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+84,ÆÏÌÑÆ¤¶ûË¹²¡,Xylella fastidiosa,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+85,ÆÏÌÑ¸ù°©²¡,Agrobacterium tumefaciens,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+86,ÆÏÌÑÉÈÒ¶²¡,Grapevine fanleaf virus,»Æ»¯,Yellowing,Î£º¦²¿Î»,InflictHarmPart
+87,ÆÏÌÑË¨Æ¤²¡,Grape corky bark virus,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+88,ÆÏÌÑ¾¥¶»²¡,Grapevine stem pitting - associated virus,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+89,ÆÏÌÑ»Æ½ğ²¡,Grape yellow leaf,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+90,ÆÏÌÑ»¨Ò¶²¡,spotted wilt virus,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+91,ÆÏÌÑ»¨Ò¶²¡,spotted wilt virus,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+92,ÆÏÌÑ»¨Ò¶²¡,spotted wilt virus,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+93,ÆÏÌÑ¸ù½áÏß³æ²¡,Grape root-knot nematode,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+94,ÆÏÌÑÈ±Ìú²¡, Grape iron deficiency disease,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+95,ÆÏÌÑÈ±Ã¾²¡,Grape magnesium deficiency disease,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+96,ÆÏÌÑÈ±¼Ø²¡,Grape potassium deficiency disease,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+97,ÆÏÌÑÈ±Ğ¿²¡, Grape zinc deficiency disease,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+98,â¨ºïÌÒºÖ¸¯²¡,Botryosphaeria dothidea,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+99,â¨ºïÌÒ»ÒÃ¹²¡,Botrytis cinerea,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+100,â¨ºïÌÒÀ£Ññ²¡,Pseudomonas syringae pv. actinidiae,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+101,Àõ°×·Û²¡,Phyllactinia corylea,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+102,ÀõÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+103,ÀõÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+104,ÀõÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+105,ºËÌÒÊ÷¸¯ÀÃ²¡,Cytospora juglandis,Ó×Ê÷,Saplings,Î£º¦²¿Î»,InflictHarmPart
+106,ºËÌÒÊ÷¸¯ÀÃ²¡,Cytospora juglandis,Ö¦Ìõ,branch,Î£º¦²¿Î»,InflictHarmPart
+107,ºËÌÒÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+108,ºËÌÒºÖ°ß²¡,Marssonina juglandis,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+109,Ôæ½¹Ò¶²¡,Jujube leaf scorch disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+110,Ôæ½¹Ò¶²¡,Jujube leaf scorch disease,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+111,Ôæ½¹Ò¶²¡,Jujube leaf scorch disease,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+112,ÔæÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+113,ÔæÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+114,ÔæÂÖÎÆ²¡,Botryosphaeria berengeriana f. sp. piricola,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+115,ÔæÂÖÎÆ²¡,Botryosphaeria berengeriana f. sp. piricola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+116,ÔæÊ÷¸ùĞà²¡,Armillaria mellea,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+117,ÔæÊ÷¸ùĞà²¡,Armillaria mellea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+118,ÔæÊ÷¸ù°©²¡,Agrobacterium tumefaciens,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+119,ÔæÊ÷¸ù°©²¡,Agrobacterium tumefaciens,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+120,Ôæ·è²¡,Jujube witches' - broom disease,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+121,Ôæ·è²¡,Jujube witches' - broom disease,Ö¦Ìõ,branch,Î£º¦²¿Î»,InflictHarmPart
+122,Ôæ·è²¡,Jujube witches' - broom disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+123,Ôæ·è²¡,Jujube witches' - broom disease,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+124,Ôæ·è²¡,Jujube witches' - broom disease,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+125,É½é«»¨¸¯²¡,Monilinia johnsonii,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+126,É½é«»¨¸¯²¡,Monilinia johnsonii,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+127,É½é«»¨¸¯²¡,Monilinia johnsonii,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+128,ÌÒºÖ°ß´©¿×²¡,Mycosphaerella cerasella,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+129,ÌÒºÖ°ß´©¿×²¡,Mycosphaerella cerasella,Ö¦ÉÒ , Branches,Î£º¦²¿Î»,InflictHarmPart
+130,ÌÒºÖ°ß´©¿×²¡,Mycosphaerella cerasella,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+131,ÌÒËõÒ¶²¡,Taphrina deformans,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+132,ÌÒËõÒ¶²¡,Taphrina deformans,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+133,ÌÒËõÒ¶²¡,Taphrina deformans,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+134,ÌÒËõÒ¶²¡,Taphrina deformans,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+135,ÌÒÃ¹°ß´©¿×²¡,Clasterosporium carpophilum,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+136,ÌÒÃ¹°ß´©¿×²¡,Clasterosporium carpophilum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+137,ÌÒÃ¹°ß´©¿×²¡,Clasterosporium carpophilum,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+138,ÌÒÃ¹°ß´©¿×²¡,Clasterosporium carpophilum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+139,ÌÒºÚĞÇ²¡,Venturia carpophila,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+140,ÌÒºÚĞÇ²¡,Venturia carpophila,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+141,ÌÒºÚĞÇ²¡,Venturia carpophila,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+142,ÌÒÒß¸¯²¡,Phytophthora cactorum,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+143,ÌÒÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+144,ÌÒÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+145,ÌÒÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+146,ÌÒÏ¸¾úĞÔ´©¿×²¡,Xanthomonas arboricola pv. pruni,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+147,ÌÒÏ¸¾úĞÔ´©¿×²¡,Xanthomonas arboricola pv. pruni,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+148,ÌÒÏ¸¾úĞÔ´©¿×²¡,Xanthomonas arboricola pv. pruni,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+149,ÌÒ°×·Û²¡,Podosphaera tridactyla,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+150,ÌÒ°×·Û²¡,Podosphaera tridactyla,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+151,ÌÒ°×·Û²¡,Podosphaera tridactyla,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+152,ÌÒÊ÷·ÇÇÖÈ¾ĞÔÁ÷½º²¡,Peach non - infectious gummosis,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+153,ÌÒÊ÷·ÇÇÖÈ¾ĞÔÁ÷½º²¡,Peach non - infectious gummosis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+154,ÌÒÊ÷·ÇÇÖÈ¾ĞÔÁ÷½º²¡,Peach non - infectious gummosis,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+155,ÌÒÊ÷ÇÖÈ¾ĞÔÁ÷½º²¡,Botryosphaeria dothidea,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+156,ÌÒÊ÷ÇÖÈ¾ĞÔÁ÷½º²¡,Botryosphaeria dothidea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+157,ÌÒÊ÷ÇÖÈ¾ĞÔÁ÷½º²¡,Botryosphaeria dothidea,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+158,ÌÒÃºÎÛ²¡,Capnodium sp.,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+159,ÌÒÃºÎÛ²¡,Capnodium sp.,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+160,ÌÒÃºÎÛ²¡,Capnodium sp.,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+161,ÌÒÊ÷Ä¾¸¯²¡,Schizophyllum commune,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+162,ÌÒÊ÷Ä¾¸¯²¡,Schizophyllum commune,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+163,ÌÒÊ÷Ä¾¸¯²¡,Schizophyllum commune,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+164,ÌÒÊ÷¸ùĞà²¡,Armillaria mellea,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+165,ÌÒÊ÷¸ùĞà²¡,Armillaria mellea,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+166,ÌÒÊ÷¸ùĞà²¡,Armillaria mellea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+167,ÌÒÊ÷¸ùĞà²¡,Armillaria mellea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+168,ÌÒÊ÷¸ùĞà²¡,Armillaria mellea,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+169,ÌÒºÖ¸¯²¡,Monilinia fructicola,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+170,ÌÒºÖ¸¯²¡,Monilinia fructicola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+171,ÌÒºÖ¸¯²¡,Monilinia fructicola,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+172,ÌÒºÖ¸¯²¡,Monilinia fructicola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+173,ÌÒºÖĞâ²¡,Tranzschelia discolor,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+174,ÌÒºÖĞâ²¡,Tranzschelia discolor,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+175,ÌÒºÖĞâ²¡,Tranzschelia discolor,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+176,ÌÒ»ÒÃ¹²¡,Botrytis cinerea,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+177,ÌÒ°×ÎÆÓğ²¡,Rosellinia necatrix,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+178,ÌÒ°×ÎÆÓğ²¡,Rosellinia necatrix,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+179,ÌÒÊ÷°×¾î²¡,Sclerotium rolfsii,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+180,ÌÒÊ÷°×¾î²¡,Sclerotium rolfsii,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+181,ÌÒÊ÷°×¾î²¡,Sclerotium rolfsii,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+182,ÌÒÊ÷°×¾î²¡,Sclerotium rolfsii,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+183,ÌÒÊ÷°×¾î²¡,Sclerotium rolfsii,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+184,ÌÒ¸ù°©²¡,Agrobacterium tumefaciens,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+185,ÌÒ¸ù°©²¡,Agrobacterium tumefaciens,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+186,ÌÒ¸ù°©²¡,Agrobacterium tumefaciens,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+187,ÌÒÇ±Òş»¨Ò¶²¡,Peach latent mosaic virus,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+188,ÌÒÊ÷ºìÒ¶²¡,Peach red leaf disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+189,ÌÒÊ÷ºìÒ¶²¡,Peach red leaf disease,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+190,ÌÒÊ÷ºìÒ¶²¡,Peach red leaf disease,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+191,ÌÒ»µËÀ»·°ß²¡,Prunus necrotic ringspot virus,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+192,ÌÒ»µËÀ»·°ß²¡,Prunus necrotic ringspot virus,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+193,ÌÒÔ°¸ù½áÏß³æ²¡,Meloidogyne sp.,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+194,ÌÒñ¨òı»û¹û²¡,Aceria fockeui,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+195,ÌÒÊ÷È±µªÖ¢,Peach nitrogen deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+196,ÌÒÊ÷È±Á×Ö¢,Peach phosphorus deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+197,ÌÒÊ÷È±¼ØÖ¢,Peach potassium deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+198,ÌÒÊ÷È±¼ØÖ¢,Peach potassium deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+199,ÌÒÊ÷È±¼ØÖ¢,Peach potassium deficiency,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+200,ÌÒÊ÷È±¼ØÖ¢,Peach potassium deficiency,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+201,ÌÒÊ÷È±ÌúÖ¢,Peach iron deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+202,ÌÒÊ÷È±ÌúÖ¢,Peach iron deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+203,ÌÒÊ÷È±ÌúÖ¢,Peach iron deficiency,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+204,ÌÒÊ÷È±ÌúÖ¢,Peach iron deficiency,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+205,ÌÒÊ÷È±Ğ¿Ö¢,Peach zinc deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+206,ÌÒÊ÷È±Ğ¿Ö¢,Peach zinc deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+207,ÌÒÊ÷È±Ğ¿Ö¢,Peach zinc deficiency,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+208,ÌÒÊ÷È±Ğ¿Ö¢,Peach zinc deficiency,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+209,ÌÒÊ÷È±¸ÆÖ¢,Peach calcium deficiency,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+210,ÌÒÊ÷È±¸ÆÖ¢,Peach calcium deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+211,ÌÒÊ÷È±¸ÆÖ¢,Peach calcium deficiency,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+212,ÌÒÊ÷È±Í­Ö¢,Peach calcium deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+213,ÌÒÊ÷È±Í­Ö¢,Peach copper deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+214,ÌÒÊ÷È±Í­Ö¢,Peach copper deficiency,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+215,ÌÒÊ÷È±ÃÌÖ¢,Peach manganese deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+216,ÌÒÊ÷È±ÃÌÖ¢,Peach manganese deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+217,ÌÒÊ÷È±ÃÌÖ¢,Peach manganese deficiency,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+218,ÌÒÊ÷È±ÅğÖ¢,Peach boron deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+219,Àî´ü¹û²¡,Taphrina pruni,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+220,Àî´ü¹û²¡,Taphrina pruni,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+221,Àî´ü¹û²¡,Taphrina pruni,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+222,Àîºìµã²¡,Polystigma rubrum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+223,Àîºìµã²¡,Polystigma rubrum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+224,ÀîºÖ¸¯²¡,Monilinia fructicola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+225,ÀîÏ¸¾úĞÔ´©¿×²¡,Xanthomonas arboricola pv. pruni,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+226,ÀîÏ¸¾úĞÔ´©¿×²¡,Xanthomonas arboricola pv. pruni,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+227,ÀîÏ¸¾úĞÔ´©¿×²¡,Xanthomonas arboricola pv. pruni,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+228,ÀîÏßÎÆ²¡,Plum line pattern disease,Ò¶Âö´ø×´,Leaf veins,Î£º¦²¿Î»,InflictHarmPart
+229,ÀîÏßÎÆ²¡,Plum line pattern disease,ÏßÎÆ°ß,Line pattern,Î£º¦²¿Î»,InflictHarmPart
+230,ÀîÏßÎÆ²¡,Plum line pattern disease,»¨Ò¶°ß,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+231,ÀîÊ÷Á÷½º²¡,Botryosphaeria dothidea,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+232,ÀîÊ÷Á÷½º²¡,Botryosphaeria dothidea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+233,ĞÓğÛ²¡,Apricot witches' - broom disease,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+234,ĞÓğÛ²¡,Apricot witches' - broom disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+235,ĞÓğÛ²¡,Apricot witches' - broom disease,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+236,ĞÓğÛ²¡,Apricot witches' - broom disease,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+237,Æ»¹ûÂÖÎÆ²¡,Botryosphaeria berengeriana f. sp. piricola,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+238,Æ»¹ûÂÖÎÆ²¡,Botryosphaeria berengeriana f. sp. piricola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+239,Æ»¹ûÂÖÎÆ²¡,Botryosphaeria berengeriana f. sp. piricola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+240,Æ»¹û»Ò°ß²¡,Phyllosticta pirina,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+241,Æ»¹û»Ò°ß²¡,Phyllosticta pirina,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+242,Æ»¹û»Ò°ß²¡,Phyllosticta pirina,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+243,Æ»¹ûÂÖ°ß²¡,Alternaria mali,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+244,Æ»¹ûÂÖ°ß²¡,Alternaria mali,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+245,Æ»¹ûĞâ²¡,Gymnosporangium yamadae,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+246,Æ»¹ûĞâ²¡,Gymnosporangium yamadae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+247,Æ»¹ûĞâ²¡,Gymnosporangium yamadae,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+248,Æ»¹û»¨¸¯²¡,Monilinia mali,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+249,Æ»¹û»¨¸¯²¡,Monilinia mali,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+250,Æ»¹û»¨¸¯²¡,Monilinia mali,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+251,Æ»¹û»¨¸¯²¡,Monilinia mali,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+252,Æ»¹ûÒß¸¯²¡,Phytophthora cactorum,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+253,Æ»¹ûÒß¸¯²¡,Phytophthora cactorum,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+254,Æ»¹ûÒß¸¯²¡,Phytophthora cactorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+255,Æ»¹ûÒß¸¯²¡,Phytophthora cactorum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+256,Æ»¹ûÃºÎÛ²¡,Capnodium sp.,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+257,Æ»¹ûÃºÎÛ²¡,Capnodium sp.,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+258,Æ»¹ûÔ²°ß²¡,Mycosphaerella pomi,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+259,Æ»¹ûÔ²°ß²¡,Mycosphaerella pomi,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+260,Æ»¹ûÔ²°ß²¡,Mycosphaerella pomi,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+261,Æ»¹ûºÚµã²¡,Apple black spot disease,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+262,Æ»¹ûºÚµã²¡,Apple black spot disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+263,Æ»¹ûºÚµã²¡,Apple black spot disease,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+264,Æ»¹ûºÚ¸¯²¡,Botryosphaeria obtusa,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+265,Æ»¹ûºÚ¸¯²¡,Botryosphaeria obtusa,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+266,Æ»¹ûºÚ¸¯²¡,Botryosphaeria obtusa,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+267,Æ»¹ûºÚ¸¯²¡,Botryosphaeria obtusa,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+268,Æ»¹ûºÚĞÇ²¡,Venturia inaequalis,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+269,Æ»¹ûºÚĞÇ²¡,Venturia inaequalis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+270,Æ»¹ûºÚĞÇ²¡,Venturia inaequalis,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+271,Æ»¹ûºÚĞÇ²¡,Venturia inaequalis,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+272,Æ»¹ûºÖ°ß²¡,Marssonina coronaria,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+273,Æ»¹ûºÖ°ß²¡,Marssonina coronaria,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+274,Æ»¹û°ßµãÂäÒ¶²¡,Alternaria alternata f. sp. mali,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+275,Æ»¹û°ßµãÂäÒ¶²¡,Alternaria alternata f. sp. mali,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+276,Æ»¹û°ßµãÂäÒ¶²¡,Alternaria alternata f. sp. mali,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+277,Æ»¹û°×·Û²¡,Podosphaera leucotricha,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+278,Æ»¹û°×·Û²¡,Podosphaera leucotricha,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+279,Æ»¹û°×·Û²¡,Podosphaera leucotricha,»¨¶ä,Flowers,Î£º¦²¿Î»,InflictHarmPart
+280,Æ»¹û°×·Û²¡,Podosphaera leucotricha,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+281,Æ»¹ûÒøÒ¶²¡,Chondrostereum purpureum,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+282,Æ»¹ûÒøÒ¶²¡,Chondrostereum purpureum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+283,Æ»¹ûÒøÒ¶²¡,Chondrostereum purpureum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+284,Æ»¹ûÒøÒ¶²¡,Chondrostereum purpureum,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+285,Æ»¹ûºÖ¸¯²¡,Monilinia fructigena,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+286,Æ»¹ûºÖ¸¯²¡,Monilinia fructigena,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+287,Æ»¹û´ÔÖ¦²¡,Apple witches' - broom disease,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+288,Æ»¹û´ÔÖ¦²¡,Apple witches' - broom disease,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+289,Æ»¹û´ÔÖ¦²¡,Apple witches' - broom disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+290,Æ»¹û´ÔÖ¦²¡,Apple witches' - broom disease,»¨¶ä,Flowers,Î£º¦²¿Î»,InflictHarmPart
+291,Æ»¹û´ÔÖ¦²¡,Apple witches' - broom disease,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+292,Æ»¹û´ÔÖ¦²¡,Apple witches' - broom disease,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+293,Æ»¹ûÈ±Á×Ö¢,Apple phosphorus deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+294,Æ»¹ûÈ±Á×Ö¢,Apple phosphorus deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+295,Æ»¹ûÊ÷¸ùĞà²¡,Armillaria mellea,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+296,Æ»¹ûÊ÷¸ùĞà²¡,Armillaria mellea,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+297,Æ»¹ûÊ÷¸ùĞà²¡,Armillaria mellea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+298,Æ»¹ûÊ÷¸ùĞà²¡,Armillaria mellea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+299,Æ»¹ûÊ÷×ÏÎÆÓğ²¡,Helicobasidium mompa,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+300,Æ»¹ûÊ÷×ÏÎÆÓğ²¡,Helicobasidium mompa,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+301,Æ»¹ûÊ÷×ÏÎÆÓğ²¡,Helicobasidium mompa,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+302,Æ»¹ûÊ÷×ÏÎÆÓğ²¡,Helicobasidium mompa,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+303,Æ»¹ûÊ÷°×¾î²¡,Rosellinia necatrix (Hart.) berl.,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+304,Æ»¹ûÊ÷°×¾î²¡,Rosellinia necatrix (Hart.) berl.,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+305,Æ»¹ûÊ÷°×¾î²¡,Rosellinia necatrix (Hart.) berl.,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+306,Æ»¹ûÊ÷°×¾î²¡,Rosellinia necatrix (Hart.) berl.,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+307,Æ»¹ûÊ÷°×¾î²¡,Rosellinia necatrix (Hart.) berl.,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+308,Æ»¹ûÔ²°ß¸ù¸¯²¡,Fusarium oxysporum Schl.,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+309,Æ»¹ûÅİ°ß²¡,Pseudomonas syringae pv. papulans,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+310,Æ»¹û¸ù°©²¡,Agrobacterium tumefaciens Smith and Townsend Conn.,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+311,Æ»¹û¸ù°©²¡,Agrobacterium tumefaciens Smith and Townsend Conn.,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+312,Æ»¹û¸ù°©²¡,Agrobacterium tumefaciens Smith and Townsend Conn.,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+313,Æ»¹û¸ù°©²¡,Agrobacterium tumefaciens Smith and Townsend Conn.,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+314,Æ»¹û»¨Ò¶²¡,Apple mosaic virus,»¨Ò¶ĞÍ,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+315,Æ»¹ûÖåÒ¶²¡,Apple leaf pucker,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+316,Æ»¹ûÖåÒ¶²¡,Apple leaf pucker,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+317,Æ»¹ûÖåÒ¶²¡,Apple leaf pucker,»¨,flower,Î£º¦²¿Î»,InflictHarmPart
+318,Æ»¹ûÖåÒ¶²¡,Apple leaf pucker,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+319,Æ»¹û±âÖ¦²¡,Agrobacterium tumefaciens,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+320,Æ»¹û±âÖ¦²¡,Agrobacterium tumefaciens,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+321,Æ»¹û¸ß½ÓË¥ÍË²¡,Apple high - grafting decline,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+322,Æ»¹û¸ß½ÓË¥ÍË²¡,Apple high - grafting decline,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+323,Æ»¹û¸ß½ÓË¥ÍË²¡,Apple high - grafting decline,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+324,Æ»¹û¸ß½ÓË¥ÍË²¡,Apple high - grafting decline,»¨¶ä,Flowers,Î£º¦²¿Î»,InflictHarmPart
+325,Æ»¹û¸ß½ÓË¥ÍË²¡,Apple high - grafting decline,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+326,Æ»¹û¸ß½ÓË¥ÍË²¡,Apple high - grafting decline,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+327,Æ»¹ûĞâ¹û²¡,Apple scar skin viroid,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+328,Æ»¹ûĞâ¹û²¡,Apple scar skin viroid,¾¥¸É,Stem,Î£º¦²¿Î»,InflictHarmPart
+329,Æ»¹ûĞâ¹û²¡,Apple scar skin viroid,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+330,Æ»¹ûÍÊÂÌÒ¶°ß²¡,Apple chlorotic leaf spot virus,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+331,Æ»¹ûÍÊÂÌÒ¶°ß²¡,Apple chlorotic leaf spot virus,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+332,Æ»¹û¸ù½áÏß³æ²¡,Meloidogyne spp.,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+333,Æ»¹û¸ù½áÏß³æ²¡,Meloidogyne spp.,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+334,Æ»¹û¸ù½áÏß³æ²¡,Meloidogyne spp.,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+335,Æ»¹û¸ù½áÏß³æ²¡,Meloidogyne spp.,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+336,Æ»¹û¸ù½áÏß³æ²¡,Meloidogyne spp.,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+337,Æ»¹ûÊ÷ÔÙÖ²²¡,Apple replant disease,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+338,Æ»¹ûÊ÷ÔÙÖ²²¡,Apple replant disease,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+339,Æ»¹ûÊ÷ÔÙÖ²²¡,Apple replant disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+340,Æ»¹ûÊ÷ÔÙÖ²²¡,Apple replant disease,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+341,Æ»¹ûĞ¡¹û²¡,Apple small fruit disease,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+342,Æ»¹ûĞ¡¹û²¡,Apple small fruit disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+343,Æ»¹ûĞ¡¹û²¡,Apple small fruit disease,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+344,Æ»¹ûĞ¡¹û²¡,Apple small fruit disease,È«Öê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+345,Æ»¹ûÊ÷´ÖÆ¤²¡,Apple rough bark disease,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+346,Æ»¹ûÊ÷´ÖÆ¤²¡,Apple rough bark disease,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+347,Æ»¹ûÊ÷´ÖÆ¤²¡,Apple rough bark disease,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+348,Æ»¹ûÈ±Ìú»Æ»¯Ö¢,Apple iron - deficiency chlorosis,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+349,Æ»¹ûÈ±Ìú»Æ»¯Ö¢,Apple iron - deficiency chlorosis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+350,Æ»¹û¿à¶»Ö¢,Apple bitter pit,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+351,Æ»¹û¿à¶»Ö¢,Apple bitter pit,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+352,Æ»¹ûÈíÖ¦²¡,Apple soft shoot disease,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+353,Æ»¹ûÈíÖ¦²¡,Apple soft shoot disease,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+354,Æ»¹ûÈíÖ¦²¡,Apple soft shoot disease,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+355,Æ»¹ûÈ±µªÖ¢,Apple nitrogen deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+356,Æ»¹ûÈ±µªÖ¢,Apple nitrogen deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+357,Æ»¹ûÈ±µªÖ¢,Apple nitrogen deficiency,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+358,Æ»¹ûÈ±µªÖ¢,Apple nitrogen deficiency,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+359,Æ»¹ûÈ±¼ØÖ¢,Apple potassium deficiency,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+360,Æ»¹ûÈ±¼ØÖ¢,Apple potassium deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+361,Æ»¹ûÈ±ÅğËõ¹ûÖ¢,Apple boron - deficiency fruit shrinkage,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+362,Æ»¹ûÈ±ÅğËõ¹ûÖ¢,Apple boron - deficiency fruit shrinkage,Ö¦Ò¶,branches and leaves,Î£º¦²¿Î»,InflictHarmPart
+363,Æ»¹ûÈ±ÅğËõ¹ûÖ¢,Apple boron - deficiency fruit shrinkage,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+364,Æ»¹ûÈ±¸ÆÖ¢,Apple calcium deficiency,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+365,Æ»¹ûÈ±¸ÆÖ¢,Apple calcium deficiency,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+366,ÀæºÚĞÇ²¡,Venturia pirina,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+367,ÀæÊ÷¸É¿İ²¡,Pear trunk blight,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+368,ÀæÊ÷¸É¸¯²¡,Botryosphaeria berengeriana f. sp. piricola,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+369,ÀæÊ÷¸É¸¯²¡,Botryosphaeria berengeriana f. sp. piricola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+370,Àæ»ğÒß²¡,Erwinia amylovora,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+371,Àæ»ğÒß²¡,Erwinia amylovora,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+372,Àæ»ğÒß²¡,Erwinia amylovora,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+373,Àæ»ğÒß²¡,Erwinia amylovora,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+374,ÀæĞâË®²¡,Pear rusty water,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+375,ÀæĞâË®²¡,Pear rusty water,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+376,ÀæĞâË®²¡,Pear rusty water,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+377,ÀæĞâ²¡,Gymnosporangium haraeanum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+378,ÀæĞâ²¡,Gymnosporangium haraeanum,ĞÂÉÒ,New shoots,Î£º¦²¿Î»,InflictHarmPart
+379,ÀæĞâ²¡,Gymnosporangium haraeanum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+380,ÀæÊ÷Òß²¡,Phytophthora cactorum,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+381,ÀæÊ÷Òß²¡,Phytophthora cactorum,Ó×Ê÷,Saplings,Î£º¦²¿Î»,InflictHarmPart
+382,ÀæÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+383,ÀæÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+384,ÀæÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+385,ÀæºÖ°ß²¡,Mycosphaerella sentina,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+386,ÀæºÖ°ß²¡,Mycosphaerella sentina,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+387,ÀæÒ¶Òß²¡,Phyllosticta pirina,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+388,ÀæÒ¶Òß²¡,Phyllosticta pirina,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+389,ÀæÒ¶Òß²¡,Phyllosticta pirina,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+390,ÀæÒ¶Òß²¡,Phyllosticta pirina,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+391,ÀæÂÖÎÆ²¡,Botryosphaeria berengeriana f. sp. piricola,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+392,ÀæÂÖÎÆ²¡,Botryosphaeria berengeriana f. sp. piricola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+393,ÀæÂÖÎÆ²¡,Botryosphaeria berengeriana f. sp. piricola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+394,ÀæºÚ°ß²¡,Alternaria kikuchiana,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+395,ÀæºÚ°ß²¡,Alternaria kikuchiana,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+396,ÀæºÚ°ß²¡,Alternaria kikuchiana,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+397,ÀæºÚ¸¯²¡,Botryosphaeria obtusa,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+398,ÀæºÚ¸¯²¡,Botryosphaeria obtusa,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+399,ÀæºÚ¸¯²¡,Botryosphaeria obtusa,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+400,ÀæÃºÎÛ²¡,Capnodium sp.,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+401,ÀæÃºÎÛ²¡,Capnodium sp.,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+402,Àæ°×ÎÆÓğ²¡,Rosellinia necatrix,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+403,Àæ°×ÎÆÓğ²¡,Rosellinia necatrix,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+404,Àæ°×ÎÆÓğ²¡,Rosellinia necatrix,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+405,Àæ°×ÎÆÓğ²¡,Rosellinia necatrix,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+406,Àæ°×ÎÆÓğ²¡,Rosellinia necatrix,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+407,Àæ×ÏÎÆÓğ²¡,Helicobasidium mompa,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+408,Àæ×ÏÎÆÓğ²¡,Helicobasidium mompa,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+409,Àæ×ÏÎÆÓğ²¡,Helicobasidium mompa,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+410,Àæ¸ùĞà²¡,Armillaria mellea,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+411,ÀæÊ÷¸ù¸¯²¡,Pear root rot,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+412,ÀæÊ÷¸ù°©²¡,Agrobacterium tumefaciens,¸ù¾±,Root neck,Î£º¦²¿Î»,InflictHarmPart
+413,ÀæÊ÷¸ù°©²¡,Agrobacterium tumefaciens,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+414,ÀæÊ÷¸ù°©²¡,Agrobacterium tumefaciens,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+415,ÀæÊ÷¸ù°©²¡,Agrobacterium tumefaciens,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+416,ÀæÊ¯¶»²¡,Pear stone pock,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+417,ÀæÊ¯¶»²¡,Pear stone pock,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+418,ÀæÊ¯¶»²¡,Pear stone pock,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+419,Àæ»·ÎÆ»¨Ò¶²¡,Pear ring pattern mosaic,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+420,ÀæÒ¶Âö»Æ»¯²¡,Pear vein yellowing,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+421,ÀæÒ¶Âö»Æ»¯²¡,Pear vein yellowing,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+422,ÀæÒ¶Âö»Æ»¯²¡,Pear vein yellowing,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+423,Àæ¸ù½áÏß³æ²¡,Meloidogyne spp.,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+424,Àæ¸ù½áÏß³æ²¡,Meloidogyne spp.,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+425,Àæ¸ù½áÏß³æ²¡,Meloidogyne spp.,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+426,Àæ¸ù½áÏß³æ²¡,Meloidogyne spp.,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+427,Àæ¸ù½áÏß³æ²¡,Meloidogyne spp.,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+428,ÀæÏ¸¾úĞÔ»¨¸¯²¡,Pear bacterial blossom rot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+429,ÀæÏ¸¾úĞÔ»¨¸¯²¡,Pear bacterial blossom rot,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+430,ÀæÁÑ¹û²¡,Pear fruit cracking,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+431,ÀæÁÑ¹û²¡,Pear fruit cracking,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+432,ÀæÁÑ¹û²¡,Pear fruit cracking,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+433,Î÷¹ÏÂû¿İ²¡,Watermelon gummy stem blight,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+434,Î÷¹ÏÂû¿İ²¡,Watermelon gummy stem blight,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+435,Î÷¹Ï¿İÎ®²¡,Watermelon Fusarium wilt,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+436,Î÷¹Ï¿İÎ®²¡,Watermelon Fusarium wilt,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+437,Î÷¹ÏÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+438,Î÷¹ÏÌ¿¾Ò²¡,Colletotrophicum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+439,Î÷¹ÏÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+440,Î÷¹ÏÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+441,Î÷¹ÏÒß²¡,Phytophthora cactorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+442,Î÷¹ÏÒß²¡,Phytophthora cactorum,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+443,Î÷¹ÏÒß²¡,Phytophthora cactorum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+444,Î÷¹ÏÒ¶¿İ²¡,Watermelon leaf blight,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+445,Î÷¹ÏÒ¶¿İ²¡,Watermelon leaf blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+446,Î÷¹ÏÒ¶¿İ²¡,Watermelon leaf blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+447,Î÷¹ÏÒ¶¿İ²¡,Watermelon leaf blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+448,Î÷¹ÏºÖÉ«¸¯°Ü²¡,Watermelon brown rot,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+449,Î÷¹ÏºÖÉ«¸¯°Ü²¡,Watermelon brown rot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+450,Î÷¹ÏºÖÉ«¸¯°Ü²¡,Watermelon brown rot,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+451,Î÷¹ÏºÖÉ«¸¯°Ü²¡,Watermelon brown rot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+452,Î÷¹ÏºÖ¸¯²¡,Watermelon brown rot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+453,Î÷¹ÏºÖ¸¯²¡,Watermelon Sclerotinia rot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+454,Î÷¹Ï¾úºË²¡,Watermelon Sclerotinia rot,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+455,Î÷¹Ï¾úºË²¡,Xanthomonas cucurbitae,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+456,Î÷¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas cucurbitae,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+457,Î÷¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas cucurbitae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+458,Î÷¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas cucurbitae,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+459,Î÷¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas cucurbitae,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+460,Î÷¹ÏÏ¸¾úĞÔ¹û°ß²¡,Watermelon bacterial fruit blotch,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+461,Î÷¹ÏÏ¸¾úĞÔ¹û°ß²¡,Watermelon bacterial fruit blotch,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+462,Î÷¹ÏÏ¸¾úĞÔ¹û°ß²¡,Watermelon bacterial fruit blotch,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+463,Î÷¹ÏÏ¸¾úĞÔ¹û°ß²¡,Watermelon bacterial fruit blotch,¹ÏÂû,Melon vine,Î£º¦²¿Î»,InflictHarmPart
+464,Î÷¹Ï²¡¶¾²¡,Watermelon virus,»¨Ò¶ĞÍ,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+465,Î÷¹Ï²¡¶¾²¡,Watermelon virus,Ş§Ò¶,Fern leaves,Î£º¦²¿Î»,InflictHarmPart
+466,Î÷¹ÏºÚ°ß²¡,Watermelon black spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+467,Î÷¹ÏºÚ°ß²¡,Watermelon black spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+468,Î÷¹Ï°×¾î²¡,Watermelon southern blight,¾¥»ù²¿,Stem base,Î£º¦²¿Î»,InflictHarmPart
+469,Î÷¹Ï°×¾î²¡,Watermelon southern blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+470,Ìğ¹Ï´ó°ß²¡,Melon large spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+471,Ìğ¹Ï´ó°ß²¡,Melon large spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+472,Ìğ¹ÏºÚĞÇ²¡,Melon scab,Ò¶,leaf,Î£º¦²¿Î»,InflictHarmPart
+473,Ìğ¹ÏºÚĞÇ²¡,Melon scab,¾¥,stem,Î£º¦²¿Î»,InflictHarmPart
+474,Ìğ¹ÏËªÃ¹²¡,Melon downy mildew,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+475,Ìğ¹ÏËªÃ¹²¡,Melon downy mildew,¹ÏÂû,Melon vine,Î£º¦²¿Î»,InflictHarmPart
+476,Ìğ¹ÏÒß²¡,Phytophthora cactorum,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+477,Ìğ¹ÏÒß²¡,Phytophthora cactorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+478,Ìğ¹ÏÒß²¡,Phytophthora cactorum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+479,Ìğ¹ÏÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+480,Ìğ¹ÏÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¾¥ºÍ,Stem and,Î£º¦²¿Î»,InflictHarmPart
+481,Ìğ¹ÏÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+482,Ìğ¹ÏÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+483,Ìğ¹ÏÂû¿İ²¡,Melon gummy stem blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+484,Ìğ¹ÏÂû¿İ²¡,Melon gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+485,Ìğ¹ÏÂû¿İ²¡,Melon gummy stem blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+486,Ìğ¹Ï²¡¶¾²¡,Melon virus,»¨Ò¶ĞÍ,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+487,Ìğ¹ÏºÚ°ß²¡,Melon black spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+488,Ìğ¹ÏºÚ°ß²¡,Melon black spot,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+489,Ìğ¹ÏºÚ°ß²¡,Melon black spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+490,Ìğ¹Ïºì·Û²¡,Melon red powder,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+491,Ìğ¹Ïºì·Û²¡,Melon red powder,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+492,Ìğ¹ÏÁ­µ¶¾ú¹û¸¯²¡,Melon Fusarium fruit rot,¹Ï¹û,Fruits,Î£º¦²¿Î»,InflictHarmPart
+493,Ìğ¹ÏÁ­µ¶¾ú¹û¸¯²¡,Melon Fusarium fruit rot,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+494,Ìğ¹ÏÁ­µ¶¾ú¹û¸¯²¡,Melon Fusarium fruit rot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+495,Ìğ¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas cucurbitae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+496,Ìğ¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas cucurbitae,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+497,Ìğ¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas cucurbitae,¾íĞë,tendril,Î£º¦²¿Î»,InflictHarmPart
+498,Ìğ¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas cucurbitae,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+499,Æ»¹ûÊ÷¸¯ÀÃ²¡,Apple tree canker,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+500,Æ»¹ûÊ÷¸¯ÀÃ²¡,Apple tree canker,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+501,Íã¶¹Ì¿¾Ò²¡,Colletotrichum pisi,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+502,Íã¶¹Ì¿¾Ò²¡,Colletotrichum pisi,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+503,Íã¶¹Ì¿¾Ò²¡,Colletotrichum pisi,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+504,Íã¶¹Ï¸¾úĞÔÒ¶°ß²¡,Pseudomonas syringae pv. pisi,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+505,Íã¶¹Ï¸¾úĞÔÒ¶°ß²¡,Pseudomonas syringae pv. pisi,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+506,Íã¶¹Ï¸¾úĞÔÒ¶°ß²¡,Pseudomonas syringae pv. pisi,»¨¹£,Pedicels,Î£º¦²¿Î»,InflictHarmPart
+507,±â¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+508,±â¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+509,±â¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+510,±â¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+511,±â¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+512,±â¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. phaseoli,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+513,±â¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. phaseoli,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+514,±â¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. phaseoli,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+515,±â¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. phaseoli,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+516,±â¶¹ºì°ß²¡,Phaseolus vulgaris red spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+517,±â¶¹ºì°ß²¡,Phaseolus vulgaris red spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+518,²Ï¶¹ºÖ°ß²¡,Vicia faba brown spot,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+519,²Ï¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. fabae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+520,²Ï¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. fabae,¾¥»ù,Stem base,Î£º¦²¿Î»,InflictHarmPart
+521,²Ï¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. fabae,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+522,²Ï¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+523,²Ï¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+524,²Ï¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+525,²Ï¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+526,²Ï¶¹ÂÖÎÆ²¡,Vicia faba ring spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+527,²Ï¶¹ÂÖÎÆ²¡,Vicia faba ring spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+528,²Ï¶¹ÂÖÎÆ²¡,Vicia faba ring spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+529,²Ï¶¹Á¢¿İ²¡,Vicia faba damping-off,¾¥»ù,Stem base,Î£º¦²¿Î»,InflictHarmPart
+530,²Ï¶¹Á¢¿İ²¡,Vicia faba damping-off,×ÑÁ£,Grains,Î£º¦²¿Î»,InflictHarmPart
+531,²Ï¶¹Ò¶ÉÕ²¡,Vicia faba damping-off,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+532,²Ï¶¹Ò¶ÉÕ²¡,Vicia faba leaf scorch,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+533,²Ï¶¹Ò¶ÉÕ²¡,Vicia faba leaf scorch,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+534,Á«ÅºÎ²æßºÖ°ß²¡,Vicia faba leaf scorch,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+535,Á«ÅººÖÎÆ²¡,Cercospora nelumbonis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+536,Á«ÅºÌ¿¾Ò²¡,Nelumbo nucifera brown stripe,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+537,Üú°×ÎÁ²¡,Nelumbo nucifera anthracnose,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+538,Üú°×ÎÁ²¡,Zizania latifolia blast,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+539,Üú°×ºúÂé°ß²¡,Zizania latifolia blast,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+540,Üú°×ºúÂé°ß²¡,Zizania latifolia sesame spot,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+541,Üú°×ºÚ·Û²¡,Zizania latifolia sesame spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+542,Üú°×ºÚ·Û²¡,Ustilago esculenta,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+543,Üú°×ºÚ·Û²¡,Ustilago esculenta,ÜúÈâ,Wild Rice,Î£º¦²¿Î»,InflictHarmPart
+544,·ğÊÖ¹ÏÂû¿İ²¡,Ustilago esculenta,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+545,·ğÊÖ¹ÏÂû¿İ²¡,Sechium edule gummy stem blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+546,·ğÊÖ¹ÏÂû¿İ²¡,Sechium edule gummy stem blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+547,¿à¹ÏÌ¿¾Ò²¡,Sechium edule gummy stem blight,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+548,¿à¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+549,¿à¹ÏÒß²¡,Colletotrichum orbiculare,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+550,¿à¹ÏÒß²¡,Phytophthora capsici,¾¥»ù,Stem base,Î£º¦²¿Î»,InflictHarmPart
+551,¿à¹ÏÒß²¡,Phytophthora capsici,¹ÏÌõ,Melon Strips,Î£º¦²¿Î»,InflictHarmPart
+552,¿à¹Ï¾úºË²¡,Phytophthora capsici,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+553,¿à¹ÏÂû¿İ²¡,Sclerotinia sclerotiorum,¹ÏÂû,Melon vine,Î£º¦²¿Î»,InflictHarmPart
+554,¿à¹ÏÂû¿İ²¡,Momordica charantia gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+555,¿à¹ÏÂû¿İ²¡,Momordica charantia gummy stem blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+556,¿à¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Momordica charantia gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+557,¿à¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Pseudomonas syringae pv. lachrymans,¾¥,stem,Î£º¦²¿Î»,InflictHarmPart
+558,¿à¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Pseudomonas syringae pv. lachrymans,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+559,²Ë¶¹ºì°ß²¡,Pseudomonas syringae pv. lachrymans,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+560,²Ë¶¹ºì°ß²¡,Phaseolus vulgaris red spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+561,²Ë¶¹»ÒÃ¹²¡,Phaseolus vulgaris red spot,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+562,²Ë¶¹»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+563,²Ë¶¹»ÒÃ¹²¡,Botrytis cinerea,¸ù¾¥,rhizome,Î£º¦²¿Î»,InflictHarmPart
+564,²Ë¶¹»ÒÃ¹²¡,Botrytis cinerea,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+565,²Ë¶¹Ì¿¾Ò²¡,Botrytis cinerea,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+566,²Ë¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+567,²Ë¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+568,²Ë¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+569,²Ë¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+570,²Ë¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+571,²Ë¶¹¿İÎ®²¡,Colletotrichum lindemuthianum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+572,²Ë¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. phaseoli,¸ù¡¢¾¥,rhizome,Î£º¦²¿Î»,InflictHarmPart
+573,²Ë¶¹Ï¸¾úĞÔÒß²¡,Fusarium oxysporum f. sp. phaseoli,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+574,²Ë¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. phaseoli,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+575,²Ë¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. phaseoli,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+576,²Ë¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. phaseoli,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+577,²Ë¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. phaseoli,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+578,²Ë¶¹Ï¸¾úĞÔÔÎÒß²¡,Xanthomonas campestris pv. phaseoli,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+579,²Ë¶¹Ï¸¾úĞÔÔÎÒß²¡,Phaseolus vulgaris bacterial halo blight,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+580,²Ë¶¹Ï¸¾úĞÔÔÎÒß²¡,Phaseolus vulgaris bacterial halo blight,¹û¼Ô,Fruit Pods,Î£º¦²¿Î»,InflictHarmPart
+581,²Ë¶¹»¨Ò¶²¡,Phaseolus vulgaris bacterial halo blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+582,²Ë¶¹»¨Ò¶²¡,Phaseolus vulgaris mosaic,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+583,²Ë¶¹»¨Ò¶²¡,Phaseolus vulgaris mosaic,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+584,²Ë¶¹Ï¸¾úĞÔÒ¶°ß²¡,Phaseolus vulgaris mosaic,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+585,²Ë¶¹Ï¸¾úĞÔÒ¶°ß²¡,Phaseolus vulgaris bacterial leaf spot,¾¥ºÍ,Stem and,Î£º¦²¿Î»,InflictHarmPart
+586,²Ë¶¹Ï¸¾úĞÔÒ¶°ß²¡,Phaseolus vulgaris bacterial leaf spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+587,²Ë¶¹Ï¸¾úĞÔÒ¶°ß²¡,Phaseolus vulgaris bacterial leaf spot,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+588,ôø¶¹Òß²¡,Phytophthora vignae,¸ù¾±,Root neck,Î£º¦²¿Î»,InflictHarmPart
+589,ôø¶¹Òß²¡,Phytophthora vignae,Âû¾¥,Vines,Î£º¦²¿Î»,InflictHarmPart
+590,ôø¶¹Òß²¡,Phytophthora vignae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+591,ôø¶¹Òß²¡,Phytophthora vignae,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+592,ôø¶¹Òß²¡,Phytophthora vignae,»¨¹£,Pedicels,Î£º¦²¿Î»,InflictHarmPart
+593,ôø¶¹Òß²¡,Phytophthora vignae,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+594,ôø¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. vignae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+595,ôø¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. vignae,¸ù¾¥,rhizome,Î£º¦²¿Î»,InflictHarmPart
+596,ôø¶¹Ğâ²¡,Uromyces vignae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+597,ôø¶¹Ğâ²¡,Uromyces vignae,Ò¶Âö,vein,Î£º¦²¿Î»,InflictHarmPart
+598,ôø¶¹»ù¸¯²¡,Cowpea basal rot,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+599,ôø¶¹»ù¸¯²¡,Cowpea basal rot,¾¥»ù,Stem base,Î£º¦²¿Î»,InflictHarmPart
+600,ôø¶¹»ÒÃ¹²¡,Botrytis cinerea,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+601,ôø¶¹»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+602,ôø¶¹»ÒÃ¹²¡,Botrytis cinerea,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+603,ôø¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. vignae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+604,ôø¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. vignae,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+605,ôø¶¹Ï¸¾úĞÔÒß²¡,Xanthomonas campestris pv. vignae,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+606,ôø¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+607,ôø¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+608,ôø¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+609,ôø¶¹ÂÖÎÆ²¡,Cowpea ring pattern,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+610,ôø¶¹ÂÖÎÆ²¡,Cowpea ring pattern,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+611,ôø¶¹ÂÖÎÆ²¡,Cowpea ring pattern,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+612,ôø¶¹½Ç°ß²¡,Cowpea angular leaf spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+613,ôø¶¹¾¥¿İ²¡,Cowpea stem blight,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+614,ôø¶¹¾¥¿İ²¡,Cowpea stem blight,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+615,Ã«¶¹Ğâ²¡,Phakopsora pachyrhizi,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+616,Ã«¶¹Ğâ²¡,Phakopsora pachyrhizi,Ò¶±úºÍ¾¥,Petiole and stem,Î£º¦²¿Î»,InflictHarmPart
+617,Ã«¶¹Òß²¡,Phytophthora sojae,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+618,Ã«¶¹Òß²¡,Phytophthora sojae,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+619,Ã«¶¹Òß²¡,Phytophthora sojae,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+620,Ã«¶¹ºÖ°ß²¡,Soybean brown spot,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+621,Ã«¶¹ºÖ°ß²¡,Soybean brown spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+622,Ã«¶¹ºÖ°ß²¡,Soybean brown spot,¾¥ºÍ,Stem and,Î£º¦²¿Î»,InflictHarmPart
+623,Ã«¶¹ºÖ°ß²¡,Soybean brown spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+624,Ã«¶¹ºÚ°ß²¡,Soybean black spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+625,Ã«¶¹ºÚ°ß²¡,Soybean black spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+626,Ã«¶¹»Ò°ß²¡,Soybean grey spot,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+627,Ã«¶¹ËªÃ¹²¡,Peronospora manshurica,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+628,Ã«¶¹ËªÃ¹²¡,Peronospora manshurica,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+629,Ã«¶¹°Òµã²¡,Soybean rake spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+630,Ã«¶¹°Òµã²¡,Soybean rake spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+631,Ã«¶¹°Òµã²¡,Soybean rake spot,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+632,Ã«¶¹°Òµã²¡,Soybean rake spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+633,Ã«¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+634,Ã«¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+635,Ã«¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+636,Ã«¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+637,Ã«¶¹Ì¿¾Ò²¡,Colletotrichum lindemuthianum,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+638,Ã«¶¹¼Ô¿İ²¡,Soybean pod blight,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+639,Ã«¶¹¼Ô¿İ²¡,Soybean pod blight,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+640,Ã«¶¹¼Ô¿İ²¡,Soybean pod blight,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+641,Ã«¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. glycines,ÕûÖê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+642,Ã«¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. glycines,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+643,Ã«¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. glycines,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+644,Ã«¶¹Ï¸¾ú°ßÕî²¡,Soybean bacterial pustule,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+645,Ã«¶¹Ï¸¾ú°ßÕî²¡,Soybean bacterial pustule,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+646,Ã«¶¹¾úºË²¡,Sclerotinia sclerotiorum,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+647,Ã«¶¹¾úºË²¡,Sclerotinia sclerotiorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+648,Ã«¶¹¾úºË²¡,Sclerotinia sclerotiorum,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+649,Ã«¶¹¾úºË²¡,Sclerotinia sclerotiorum,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+650,Ã«¶¹â§µ¹²¡,Soybean damping - off,¸ù,root,Î£º¦²¿Î»,InflictHarmPart
+651,Ã«¶¹ºÚµã²¡,Soybean black dot,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+652,Ã«¶¹ºÚµã²¡,Soybean black dot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+653,Ã«¶¹ºÚµã²¡,Soybean black dot,×ÑÁ£,Grains,Î£º¦²¿Î»,InflictHarmPart
+654,Ã«¶¹ÂÖÎÆ²¡,Soybean ring pattern,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+655,Ã«¶¹ÂÖÎÆ²¡,Soybean ring pattern,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+656,Ã«¶¹ÂÖÎÆ²¡,Soybean ring pattern,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+657,Ã«¶¹ÂÖÎÆ²¡,Soybean ring pattern,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+658,Ã«¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+659,Ã«¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+660,Ã«¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,¾¥ºÍ,Stem and,Î£º¦²¿Î»,InflictHarmPart
+661,Ã«¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+662,Ã«¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+663,Ã«¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,×ÑÁ£,Grains,Î£º¦²¿Î»,InflictHarmPart
+664,Ã«¶¹ĞßÎ®²¡,Soybean shy wilt,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+665,Ã«¶¹ĞßÎ®²¡,Soybean shy wilt,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+666,Ã«¶¹ĞßÎ®²¡,Soybean shy wilt,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+667,Ã«¶¹ĞßÎ®²¡,Soybean shy wilt,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+668,Ã«¶¹ĞßÎ®²¡,Soybean shy wilt,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+669,Ã«¶¹×Ï°ß²¡,Soybean purple spot,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+670,Ã«¶¹×Ï°ß²¡,Soybean purple spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+671,Ã«¶¹×Ï°ß²¡,Soybean purple spot,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+672,Ã«¶¹×Ï°ß²¡,Soybean purple spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+673,Ã«¶¹×Ï°ß²¡,Soybean purple spot,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+674,Íã¶¹ºÖ°ß²¡,Pea brown spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+675,Íã¶¹ºÖÎÆ²¡,Pea brown stripe,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+676,Íã¶¹ºÖÎÆ²¡,Pea brown stripe,Ò¶±ú¼°¾¥,Petiole and stem,Î£º¦²¿Î»,InflictHarmPart
+677,Íã¶¹°×·Û²¡,Pea powdery mildew,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+678,Íã¶¹°×·Û²¡,Pea powdery mildew,¾¥¼Ô,Stem Pods,Î£º¦²¿Î»,InflictHarmPart
+679,Íã¶¹»ù¸¯²¡,Pea basal rot,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+680,Íã¶¹»ù¸¯²¡,Pea basal rot,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+681,Î÷ºùÂ«¿İÎ®²¡,Fusarium oxysporum f. sp. cucurbitae,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+682,Î÷ºùÂ«¿İÎ®²¡,Fusarium oxysporum f. sp. cucurbitae,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+683,Î÷ºùÂ«Âû¿İ²¡,Zucchini gummy stem blight,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+684,Î÷ºùÂ«Âû¿İ²¡,Zucchini gummy stem blight,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+685,Î÷ºùÂ«Ãà¸¯²¡,Pythium aphanidermatum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+686,Î÷ºùÂ«Ãà¸¯²¡,Pythium aphanidermatum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+687,Î÷ºùÂ«Èí¸¯²¡,Zucchini soft rot,¸ù¾¥,rhizome,Î£º¦²¿Î»,InflictHarmPart
+688,Î÷ºùÂ«Èí¸¯²¡,Zucchini soft rot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+689,Î÷ºùÂ«²¡¶¾²¡,Zucchini virus,»¨Ò¶ĞÍ,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+690,Î÷ºùÂ«²¡¶¾²¡,Zucchini virus,Ş§Ò¶,Fern leaves,Î£º¦²¿Î»,InflictHarmPart
+691,¶¬¹ÏºÚĞÇ²¡,Wax gourd scab,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+692,¶¬¹ÏºÚĞÇ²¡,Wax gourd scab,ÄÛ¾¥,Tender stem,Î£º¦²¿Î»,InflictHarmPart
+693,¶¬¹ÏºÚĞÇ²¡,Wax gourd scab,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+694,¶¬¹ÏºÚĞÇ²¡,Wax gourd scab,¹ÏÂû,Melon vine,Î£º¦²¿Î»,InflictHarmPart
+695,¶¬¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+696,¶¬¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+697,¶¬¹ÏÒ¶°ß²¡,Wax gourd leaf spot,ºùÂ«,gourd,Î£º¦²¿Î»,InflictHarmPart
+698,¶¬¹ÏÒß²¡,Phytophthora capsici,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+699,¶¬¹ÏÒß²¡,Phytophthora capsici,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+700,¶¬¹ÏÒß²¡,Phytophthora capsici,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+701,¶¬¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. cucurbitae,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+702,¶¬¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. cucurbitae,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+703,¶¬¹ÏÂû¿İ²¡,Wax gourd gummy stem blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+704,¶¬¹ÏÂû¿İ²¡,Wax gourd gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+705,¶¬¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Wax gourd bacterial angular leaf spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+706,¶¬¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Wax gourd bacterial angular leaf spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+707,¶¬¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Wax gourd bacterial angular leaf spot,¾íĞë,tendril,Î£º¦²¿Î»,InflictHarmPart
+708,¶¬¹Ï»Ò°ß²¡,Wax gourd grey spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+709,¶¬¹Ï¾úºË²¡,Sclerotinia sclerotiorum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+710,¶¬¹Ï¾úºË²¡,Sclerotinia sclerotiorum,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+711,¶¬¹Ï¾úºË²¡,Sclerotinia sclerotiorum,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+712,¶¬¹Ï¾úºË²¡,Sclerotinia sclerotiorum,Ó×¹û,Young fruit,Î£º¦²¿Î»,InflictHarmPart
+713,ğ­¹Ï°×·Û²¡,Calabash gourd powdery mildew,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+714,ğ­¹Ï°×·Û²¡,Calabash gourd powdery mildew,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+715,ğ­¹Ï°×·Û²¡,Calabash gourd powdery mildew,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+716,ğ­¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+717,ğ­¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+718,ğ­¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+719,ğ­¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+720,ğ­¹Ï»ÒÃ¹²¡,Botrytis cinerea,»¨ºÍ,Flowers and,Î£º¦²¿Î»,InflictHarmPart
+721,ğ­¹Ï»ÒÃ¹²¡,Botrytis cinerea,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+722,ğ­¹Ï»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+723,ğ­¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Calabash gourd bacterial angular leaf spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+724,ğ­¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Calabash gourd bacterial angular leaf spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+725,ğ­¹ÏÂû¿İ²¡,Calabash gourd gummy stem blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+726,ğ­¹ÏÂû¿İ²¡,Calabash gourd gummy stem blight,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+727,ğ­¹ÏÂû¿İ²¡,Calabash gourd gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+728,Ë¿¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. luffae,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+729,Ë¿¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. luffae,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+730,Ë¿¹ÏÂû¿İ²¡,Sponge gourd gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+731,Ë¿¹ÏÂû¿İ²¡,Sponge gourd gummy stem blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+732,Ë¿¹ÏÂû¿İ²¡,Sponge gourd gummy stem blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+733,Ë¿¹ÏÃà¸¯²¡,Pythium aphanidermatum,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+734,Ë¿¹ÏÃà¸¯²¡,Pythium aphanidermatum,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+735,Ë¿¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Sponge gourd bacterial angular leaf spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+736,Ë¿¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Sponge gourd bacterial angular leaf spot,¾¥ºÍ,Stem and,Î£º¦²¿Î»,InflictHarmPart
+737,Ë¿¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Sponge gourd bacterial angular leaf spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+738,Ë¿¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+739,Ë¿¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+740,Ë¿¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+741,Ë¿¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+742,Ë¿¹ÏÒß²¡,Phytophthora capsici,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+743,Ë¿¹ÏÒß²¡,Phytophthora capsici,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+744,Ë¿¹ÏÒß²¡,Phytophthora capsici,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+745,ÄÏ¹ÏºÚĞÇ²¡,Pumpkin scab,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+746,ÄÏ¹ÏºÚĞÇ²¡,Pumpkin scab,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+747,ÄÏ¹ÏºÚĞÇ²¡,Pumpkin scab,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+748,ÄÏ¹ÏºÚĞÇ²¡,Pumpkin scab,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+749,ÄÏ¹ÏÒß²¡,Phytophthora capsici,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+750,ÄÏ¹ÏÒß²¡,Phytophthora capsici,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+751,ÄÏ¹ÏÒß²¡,Phytophthora capsici,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+752,ÄÏ¹ÏÒß²¡,Phytophthora capsici,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+753,ÄÏ¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. cucurbitae,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+754,ÄÏ¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. cucurbitae,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+755,ÄÏ¹Ï²¡¶¾²¡,Pumpkin virus,»¨Ò¶ĞÍ,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+756,ÄÏ¹Ï²¡¶¾²¡,Pumpkin virus,Ş§Ò¶,Fern leaves,Î£º¦²¿Î»,InflictHarmPart
+757,ÄÏ¹Ï°ßµã²¡,Pumpkin spots,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+758,ÄÏ¹Ï°ßµã²¡,Pumpkin spots,»¨Öá,Flower axis,Î£º¦²¿Î»,InflictHarmPart
+759,ÄÏ¹ÏºÚ°ß²¡,Pumpkin black spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+760,ÄÏ¹ÏºÚ°ß²¡,Pumpkin black spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+761,ÄÏ¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+762,ÄÏ¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,¾¥»ò,stem or,Î£º¦²¿Î»,InflictHarmPart
+763,ÄÏ¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+764,ÄÏ¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+765,ÄÏ¹ÏÂû¿İ²¡,Pumpkin gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+766,ÄÏ¹ÏÂû¿İ²¡,Pumpkin gummy stem blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+767,ÄÏ¹ÏÂû¿İ²¡,Pumpkin gummy stem blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+768,ÄÏ¹ÏÒøÒ¶²¡,Pumpkin silver leaf,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+769,ÄÏ¹ÏÒøÒ¶²¡,Pumpkin silver leaf,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+770,·Éµú¹ÏÂû¿İ²¡,Pattypan squash gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+771,·Éµú¹ÏÂû¿İ²¡,Pattypan squash gummy stem blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+772,·Éµú¹ÏÂû¿İ²¡,Pattypan squash gummy stem blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+773,À±½·Á¢¿İ²¡,Pepper damping - off,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+774,À±½·¸ù¸¯²¡,Pepper root rot,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+775,À±½·´¯ğè²¡,Xanthomonas campestris pv. vesicatoria,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+776,À±½·´¯ğè²¡,Xanthomonas campestris pv. vesicatoria,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+777,À±½·²¡¶¾²¡,Pepper virus,»¨Ò¶ĞÍ,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+778,À±½·°×°ß²¡,Pepper white spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+779,À±½·°×°ß²¡,Pepper white spot,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+780,À±½·ËªÃ¹²¡,Pepper downy mildew,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+781,À±½·ËªÃ¹²¡,Pepper downy mildew,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+782,À±½·ËªÃ¹²¡,Pepper downy mildew,ÄÛ¾¥,Tender stem,Î£º¦²¿Î»,InflictHarmPart
+783,ÇÑ×Ó°ôæßÒ¶°ß²¡,Corynespora cassiicola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+784,ÇÑ×Ó°ôæßÒ¶°ß²¡,Corynespora cassiicola,¾¥»ù²¿,Stem base,Î£º¦²¿Î»,InflictHarmPart
+785,ÇÑ×Ó°ôæßÒ¶°ß²¡,Corynespora cassiicola,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+786,ÇÑ×ÓºÖÎÆ²¡,Eggplant brown stripe,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+787,ÇÑ×ÓºÖÎÆ²¡,Eggplant brown stripe,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+788,ÇÑ×ÓºÖÎÆ²¡,Eggplant brown stripe,¾¥Ö¦,Stem,Î£º¦²¿Î»,InflictHarmPart
+789,ÇÑ×ÓºÖÎÆ²¡,Eggplant brown stripe,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+790,ÇÑ×ÓºÖÎÆ²¡,Eggplant brown stripe,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+791,ÇÑ×ÓÒ¶Ã¹²¡,Eggplant leaf mold,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+792,ÇÑ×ÓÒ¶Ã¹²¡,Eggplant leaf mold,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+793,ÇÑ×ÓÒ¶Ã¹²¡,Eggplant leaf mold,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+794,ÇÑ×ÓÒ¶Ã¹²¡,Eggplant leaf mold,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+795,ÇÑ×Ó»ÒÃ¹²¡,Botrytis cinerea,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+796,ÇÑ×Ó»ÒÃ¹²¡,Botrytis cinerea,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+797,ÇÑ×Ó¾úºË²¡,Sclerotinia sclerotiorum,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+798,ÇÑ×Ó¾úºË²¡,Sclerotinia sclerotiorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+799,ÇÑ×Ó¾úºË²¡,Sclerotinia sclerotiorum,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+800,ÇÑ×Ó¾úºË²¡,Sclerotinia sclerotiorum,»¨ÀÙ,bud,Î£º¦²¿Î»,InflictHarmPart
+801,ÇÑ×Ó¾úºË²¡,Sclerotinia sclerotiorum,»¨±ú,Flower stalk,Î£º¦²¿Î»,InflictHarmPart
+802,ÇÑ×Ó¾úºË²¡,Sclerotinia sclerotiorum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+803,ÇÑ×ÓÃàÒß²¡,Phytophthora parasitica,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+804,ÇÑ×ÓÃàÒß²¡,Phytophthora parasitica,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+805,ÇÑ×ÓÃàÒß²¡,Phytophthora parasitica,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+806,ÇÑ×ÓÃàÒß²¡,Phytophthora parasitica,ÄÛÖ¦,Twigs,Î£º¦²¿Î»,InflictHarmPart
+807,ÇÑ×ÓÇà¿İ²¡,Ralstonia solanacearum,ÕûÖê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+808,ÇÑ×ÓÇà¿İ²¡,Ralstonia solanacearum,¾¥»ù²¿,Stem base,Î£º¦²¿Î»,InflictHarmPart
+809,ÇÑ×ÓºÚ¿İ²¡,Eggplant black blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+810,ÇÑ×ÓºÚ¿İ²¡,Eggplant black blight,¹û¹£,Fruit stalk,Î£º¦²¿Î»,InflictHarmPart
+811,ÇÑ×ÓºÚ¿İ²¡,Eggplant black blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+812,ÇÑ×ÓÄâºÚ°ß²¡,Eggplant pseudo - black spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+813,ÇÑ×ÓÄâºÚ°ß²¡,Eggplant pseudo - black spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+814,ÇÑ×Ó¹ûÊµÒß²¡,Eggplant fruit blight,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+815,ÇÑ×Ó¹ûÊµÒß²¡,Eggplant fruit blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+816,ÇÑ×Ó»¨¸¯²¡,Eggplant flower rot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+817,ÇÑ×ÓÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+818,ÇÑ×ÓÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,»¨ÀÙ,bud,Î£º¦²¿Î»,InflictHarmPart
+819,ÇÑ×ÓÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,ÄÛÖ¦,Twigs,Î£º¦²¿Î»,InflictHarmPart
+820,ÇÑ×ÓÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+821,»Æ¹ÏËªÃ¹²¡,Pseudoperonospora cubensis,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+822,»Æ¹ÏËªÃ¹²¡,Pseudoperonospora cubensis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+823,»Æ¹ÏÒß²¡,Phytophthora drechsleri,¾¥»ù²¿,Stem base,Î£º¦²¿Î»,InflictHarmPart
+824,»Æ¹ÏºÚĞÇ²¡,Cladosporium cucumerinum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+825,»Æ¹ÏºÚĞÇ²¡,Cladosporium cucumerinum,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+826,»Æ¹ÏºÚĞÇ²¡,Cladosporium cucumerinum,¹ÏÌõ,Melon Strips,Î£º¦²¿Î»,InflictHarmPart
+827,»Æ¹ÏºÚĞÇ²¡,Cladosporium cucumerinum,¾íĞë,tendril,Î£º¦²¿Î»,InflictHarmPart
+828,»Æ¹ÏºÚĞÇ²¡,Cladosporium cucumerinum,ÕûÖê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+829,»Æ¹Ï»ÒÉ«Òß²¡,Cucumber grey blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+830,»Æ¹Ï»ÒÉ«Òß²¡,Cucumber grey blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+831,»Æ¹Ï»ÒÉ«Òß²¡,Cucumber grey blight,¹ÏÌõ,Melon Strips,Î£º¦²¿Î»,InflictHarmPart
+832,»Æ¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. cucumerinum,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+833,»Æ¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. cucumerinum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+834,»Æ¹Ï¿İÎ®²¡,Fusarium oxysporum f. sp. cucumerinum,¸ùºÍ¾¥,Roots and stems,Î£º¦²¿Î»,InflictHarmPart
+835,»Æ¹ÏÂû¿İ²¡,Cucumber gummy stem blight,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+836,»Æ¹ÏÂû¿İ²¡,Cucumber gummy stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+837,»Æ¹ÏÂû¿İ²¡,Cucumber gummy stem blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+838,»Æ¹Ïâ§µ¹²¡,Pythium aphanidermatum,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+839,»Æ¹Ïâ§µ¹²¡,Pythium aphanidermatum,¹ÏÌõ,Melon Strips,Î£º¦²¿Î»,InflictHarmPart
+840,»Æ¹ÏÁ¢¿İ²¡,Rhizoctonia solani,¾¥»ù²¿,Stem base,Î£º¦²¿Î»,InflictHarmPart
+841,»Æ¹ÏÁ¢¿İ²¡,Rhizoctonia solani,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+842,»Æ¹ÏÁ¢¿İ²¡,Rhizoctonia solani,ÕûÖê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+843,»Æ¹Ï¾úºË²¡,Sclerotinia sclerotiorum,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+844,»Æ¹Ï¾úºË²¡,Sclerotinia sclerotiorum,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+845,»Æ¹Ï¾úºË²¡,Sclerotinia sclerotiorum,Ó×¹û,Young fruit,Î£º¦²¿Î»,InflictHarmPart
+846,»Æ¹Ï¾úºË²¡,Sclerotinia sclerotiorum,¹ÏÌõ,Melon Strips,Î£º¦²¿Î»,InflictHarmPart
+847,»Æ¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Pseudomonas syringae pv. lachrymans,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+848,»Æ¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Pseudomonas syringae pv. lachrymans,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+849,»Æ¹ÏÏ¸¾úĞÔ½Ç°ß²¡,Pseudomonas syringae pv. lachrymans,¾íĞë,tendril,Î£º¦²¿Î»,InflictHarmPart
+850,»Æ¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+851,»Æ¹ÏÌ¿¾Ò²¡,Colletotrichum orbiculare,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+852,»Æ¹Ï»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+853,»Æ¹Ï¸ù¸¯²¡,Cucumber root rot,¸ùºÍ,Root and,Î£º¦²¿Î»,InflictHarmPart
+854,»Æ¹Ï¸ù¸¯²¡,Cucumber root rot,¸ù¾¥²¿,Rhizome,Î£º¦²¿Î»,InflictHarmPart
+855,»Æ¹ÏÏ¸¾úĞÔÔµ¿İ²¡,Pseudomonas marginalis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+856,»Æ¹ÏÏ¸¾úĞÔÔµ¿İ²¡,Pseudomonas marginalis,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+857,»Æ¹ÏÏ¸¾úĞÔÔµ¿İ²¡,Pseudomonas marginalis,¾íĞë,tendril,Î£º¦²¿Î»,InflictHarmPart
+858,»Æ¹ÏÏ¸¾úĞÔÔµ¿İ²¡,Pseudomonas marginalis,¹ÏÌõ,Melon Strips,Î£º¦²¿Î»,InflictHarmPart
+859,»Æ¹Ï²¡¶¾²¡,Cucumber virus,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+860,»Æ¹Ï²¡¶¾²¡,Cucumber virus,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+861,»Æ¹ÏÓ×Ãç¸¯Ã¹¸ù¸¯²¡,Cucumber seedling Pythium root rot,Ó×ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+862,Î÷ºùÂ«ºÚĞÇ²¡,Zucchini scab,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+863,Î÷ºùÂ«ºÚĞÇ²¡,Zucchini scab,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+864,ÜíİïÌ¿¾Ò²¡,Chrysanthemum coronarium anthracnose,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+865,Ü¾İ´Á¢¿İ²¡,Rhizoctonia solani,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+866,Ü¾İ´Á¢¿İ²¡,Rhizoctonia solani,´óÃç,Big seedling,Î£º¦²¿Î»,InflictHarmPart
+867,Ü¾İ´Ò¶°ß²¡,Coriander leaf spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+868,Ü¾İ´Ò¶°ß²¡,Coriander leaf spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+869,Ü¾İ´Öê¸¯²¡,Coriander stem rot,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+870,Ü¾İ´°×·Û²¡,Coriander powdery mildew,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+871,·¬ÇÑÔçÒß²¡,Alternaria solani,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+872,·¬ÇÑÔçÒß²¡,Alternaria solani,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+873,·¬ÇÑÔçÒß²¡,Alternaria solani,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+874,·¬ÇÑÔçÒß²¡,Alternaria solani,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+875,·¬ÇÑÍíÒß²¡,Phytophthora infestans,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+876,·¬ÇÑÍíÒß²¡,Phytophthora infestans,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+877,·¬ÇÑÍíÒß²¡,Phytophthora infestans,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+878,·¬ÇÑÒ¶Ã¹²¡,Fulvia fulva,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+879,·¬ÇÑÒ¶Ã¹²¡,Fulvia fulva,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+880,·¬ÇÑÒ¶Ã¹²¡,Fulvia fulva,»¨¹û,Flowers and Fruits,Î£º¦²¿Î»,InflictHarmPart
+881,·¬ÇÑ»ÒÒ¶°ß²¡,Stemphylium solani,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+882,·¬ÇÑ»ÒÒ¶°ß²¡,Stemphylium solani,»¨¶ä,Flowers,Î£º¦²¿Î»,InflictHarmPart
+883,·¬ÇÑ»ÒÒ¶°ß²¡,Stemphylium solani,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+884,·¬ÇÑ»Ò°ß²¡,Tomato grey spot,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+885,·¬ÇÑ»Ò°ß²¡,Tomato grey spot,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+886,·¬ÇÑ»Ò°ß²¡,Tomato grey spot,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+887,·¬ÇÑÃºÎÛ²¡,Tomato sooty mold,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+888,·¬ÇÑÃºÎÛ²¡,Tomato sooty mold,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+889,·¬ÇÑ°ß¿İ²¡,Septoria lycopersici,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+890,·¬ÇÑ°ß¿İ²¡,Septoria lycopersici,Ò¶±úºÍ¾¥,Petiole and stem,Î£º¦²¿Î»,InflictHarmPart
+891,·¬ÇÑ°ß¿İ²¡,Septoria lycopersici,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+892,·¬ÇÑ»ÒÃ¹²¡,Botrytis cinerea,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+893,·¬ÇÑ»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+894,·¬ÇÑ»ÒÃ¹²¡,Botrytis cinerea,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+895,·¬ÇÑ»ÒÃ¹²¡,Botrytis cinerea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+896,·¬ÇÑ»ÒÃ¹²¡,Botrytis cinerea,»¨İà,calyx,Î£º¦²¿Î»,InflictHarmPart
+897,·¬ÇÑ°×¾î²¡,Sclerotium rolfsii,¾¥»ù²¿,Stem base,Î£º¦²¿Î»,InflictHarmPart
+898,·¬ÇÑ°×¾î²¡,Sclerotium rolfsii,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+899,·¬ÇÑÃàÒß²¡,Phytophthora parasitica,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+900,·¬ÇÑÃàÒß²¡,Phytophthora parasitica,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+901,·¬ÇÑºì·Û²¡,Trichothecium roseum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+902,·¬ÇÑºì·Û²¡,Trichothecium roseum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+903,·¬ÇÑ¾¥»ù¸¯²¡,Fusarium solani,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+904,·¬ÇÑ´ÔÖ¦²¡,Tomato witches' - broom,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+905,·¬ÇÑ´ÔÖ¦²¡,Tomato witches' - broom,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+906,·¬ÇÑ´ÔÖ¦²¡,Tomato witches' - broom,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+907,·¬ÇÑ¾úºË²¡,Sclerotinia sclerotiorum,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+908,·¬ÇÑ¾úºË²¡,Sclerotinia sclerotiorum,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+909,·¬ÇÑ¾úºË²¡,Sclerotinia sclerotiorum,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+910,·¬ÇÑÒßÃ¹¸ù¸¯²¡,Phytophthora parasitica,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+911,·¬ÇÑÏ¸¾úĞÔ°ßÕî²¡,Xanthomonas vesicatoria,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+912,·¬ÇÑÏ¸¾úĞÔ°ßÕî²¡,Xanthomonas vesicatoria,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+913,·¬ÇÑÏ¸¾úĞÔ°ßÕî²¡,Xanthomonas vesicatoria,»¨ÀÙ,bud,Î£º¦²¿Î»,InflictHarmPart
+914,·¬ÇÑÏ¸¾úĞÔ°ßÕî²¡,Xanthomonas vesicatoria,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+915,·¬ÇÑÏ¸¾úĞÔ°ßÕî²¡,Xanthomonas vesicatoria,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+916,·¬ÇÑÀ£Ññ²¡,Clavibacter michiganensis subsp. michiganensis,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+917,·¬ÇÑÀ£Ññ²¡,Clavibacter michiganensis subsp. michiganensis,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+918,·¬ÇÑÀ£Ññ²¡,Clavibacter michiganensis subsp. michiganensis,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+919,·¬ÇÑÇà¿İ²¡,Ralstonia solanacearum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+920,·¬ÇÑÇà¿İ²¡,Ralstonia solanacearum,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+921,·¬ÇÑ´¯ğè²¡,Xanthomonas campestris pv. vesicatoria,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+922,·¬ÇÑ´¯ğè²¡,Xanthomonas campestris pv. vesicatoria,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+923,·¬ÇÑ´¯ğè²¡,Xanthomonas campestris pv. vesicatoria,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+924,·¬ÇÑÏ¸¾úĞÔËè²¿»µËÀ²¡,Tomato bacterial pith necrosis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+925,·¬ÇÑÏ¸¾úĞÔËè²¿»µËÀ²¡,Tomato bacterial pith necrosis,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+926,·¬ÇÑÏ¸¾úĞÔËè²¿»µËÀ²¡,Tomato bacterial pith necrosis,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+927,·¬ÇÑÈí¸¯²¡,Erwinia carotovora subsp. carotovora,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+928,·¬ÇÑÈí¸¯²¡,Erwinia carotovora subsp. carotovora,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+929,·¬ÇÑÌõ°ß²¡¶¾²¡,Tomato streak virus,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+930,·¬ÇÑÌõ°ß²¡¶¾²¡,Tomato streak virus,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+931,·¬ÇÑÌõ°ß²¡¶¾²¡,Tomato streak virus,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+932,·¬ÇÑ°ßÎ®²¡¶¾²¡,Tomato spotted wilt virus£¨TSWV£©,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+933,·¬ÇÑ°ßÎ®²¡¶¾²¡,Tomato spotted wilt virus£¨TSWV£©,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+934,·¬ÇÑ¸ù½áÏß³æ²¡,Meloidogyne spp.,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+935,·¬ÇÑÔ²ÎÆ²¡,Tomato ring pattern,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+936,·¬ÇÑÔ²ÎÆ²¡,Tomato ring pattern,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+937,·¬ÇÑ¾¥¿İ²¡,Tomato stem blight,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+938,·¬ÇÑ¾¥¿İ²¡,Tomato stem blight,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+939,·¬ÇÑ¾¥¿İ²¡,Tomato stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+940,·¬ÇÑ±äĞÎ¹û,Tomato deformed fruit,¶àÈï¹û,Multifruit,Î£º¦²¿Î»,InflictHarmPart
+941,·¬ÇÑ±äĞÎ¹û,Tomato deformed fruit,ÍÖÔ²ĞÎ¹û,Oval fruit,Î£º¦²¿Î»,InflictHarmPart
+942,·¬ÇÑµÍÎÂÕÏ°­ºÍ¶³º¦,Tomato low - temperature disorder and freezing injury,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+943,·¬ÇÑµÍÎÂÕÏ°­ºÍ¶³º¦,Tomato low - temperature disorder and freezing injury,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+944,·¬ÇÑµÍÎÂÕÏ°­ºÍ¶³º¦,Tomato low - temperature disorder and freezing injury,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+945,·¬ÇÑ¸ßÎÂÕÏ°­,Tomato high - temperature disorder,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+946,·¬ÇÑ¸ßÎÂÕÏ°­,Tomato high - temperature disorder,»¨¹û,Flowers and Fruits,Î£º¦²¿Î»,InflictHarmPart
+947,·¬ÇÑÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+948,·¬ÇÑÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+949,·¬ÇÑÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,»¨ÀÙ,bud,Î£º¦²¿Î»,InflictHarmPart
+950,·¬ÇÑÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+951,·¬ÇÑÏ¸¾úĞÔºÖ°ß²¡,Pseudomonas cichorii,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+952,À±½·Òß²¡,Phytophthora capsici,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+953,À±½·Òß²¡,Phytophthora capsici,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+954,À±½·ÔçÒß²¡,Alternaria solani,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+955,À±½·ÔçÒß²¡,Alternaria solani,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+956,À±½·»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+957,À±½·»ÒÃ¹²¡,Botrytis cinerea,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+958,À±½·»ÒÃ¹²¡,Botrytis cinerea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+959,À±½·¾úºË²¡,Sclerotinia sclerotiorum,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+960,²¤²Ë²¡¶¾²¡,Spinach virus,»¨Ò¶ĞÍ,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+961,ÇÛ²Ë²¡¶¾²¡,Celery virus,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+962,ÇÛ²Ë»ÆÎ®²¡,Fusarium oxysporum f. sp. apii,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+963,ÇÛ²ËÒ¶°ß²¡,Celery leaf spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+964,ÇÛ²ËÒ¶°ß²¡,Celery leaf spot,¾¥»ò,stem or,Î£º¦²¿Î»,InflictHarmPart
+965,ÇÛ²ËÒ¶°ß²¡,Celery leaf spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+966,İ«Ëñ»ÒÃ¹²¡,Botrytis cinerea,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+967,İ«Ëñ»ÒÃ¹²¡,Botrytis cinerea,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+968,İ«Ëñ¾úºË²¡,Sclerotinia sclerotiorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+969,İ«Ëñ¾úºË²¡,Sclerotinia sclerotiorum,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+970,İ«Ëñ²¡¶¾²¡,Lettuce stem virus,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+971,İ«Ëñ²¡¶¾²¡,Lettuce stem virus,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+972,İ«ËñºÖ°ß²¡,Lettuce brown spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+973,İ«Ëñ¸¯°Ü²¡,Lettuce rot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+974,Éú²ËºÖ°ß²¡,Romaine lettuce brown spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+975,Éú²Ë²¡¶¾²¡,Romaine lettuce virus,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+976,Éú²Ë²¡¶¾²¡,Romaine lettuce virus,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+977,ÜÈ²ËÌ¿¾Ò²¡,Amaranth anthracnose,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+978,ÜÈ²ËÌ¿¾Ò²¡,Amaranth anthracnose,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+979,Âä¿û×Ï°ß²¡,Malabar spinach purple spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+980,Âä¿û×Ï°ß²¡,Malabar spinach purple spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+981,Âä¿û×Ï°ß²¡,Malabar spinach purple spot,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+982,Âä¿û¸ù½áÏß³æ²¡,Meloidogyne spp.,Ò¶²¿,Leaf,Î£º¦²¿Î»,InflictHarmPart
+983,Ş³²Ë°×Ğâ²¡,Albugo ipomoeae - aquaticae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+984,Ş³²Ë°×Ğâ²¡,Albugo ipomoeae - aquaticae,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+985,Ş³²Ë»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+986,Î÷ºùÂ«ÃàÒß²¡,Phytophthora capsici,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+987,Î÷ºùÂ«ÃàÒß²¡,Phytophthora capsici,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+988,Î÷ºùÂ«ÃàÒß²¡,Phytophthora capsici,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+989,Î÷ºùÂ«ÒøÒ¶²¡,Zucchini silver leaf,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+990,Î÷ºùÂ«ÒøÒ¶²¡,Zucchini silver leaf,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+991,Íã¶¹»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+992,Íã¶¹»ÒÃ¹²¡,Botrytis cinerea,¹û¼Ô,Fruit Pods,Î£º¦²¿Î»,InflictHarmPart
+993,Íã¶¹¸ù´®ÖéÃ¹¸ù¸¯²¡,Pea root rot caused by Thielaviopsis basicola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+994,Íã¶¹ºÚ°ß²¡,Pea black spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+995,Íã¶¹ºÚ°ß²¡,Pea black spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+996,Íã¶¹ºÚ°ß²¡,Pea black spot,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+997,Íã¶¹ºÚ°ß²¡,Pea black spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+998,Íã¶¹Ñ¿¿İ²¡,Pea bud blight,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+999,ÆÏÌÑ¸ùĞà²¡,Armillaria mellea,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+1000,ÆÏÌÑ¸ùĞà²¡,Armillaria mellea,Ö²Öê,Plant,Î£º¦²¿Î»,InflictHarmPart
+1001,ÆÏÌÑÂû¸î²¡,Botryosphaeria dothidea,Ö¦Âû,Tendrils,Î£º¦²¿Î»,InflictHarmPart
+1002,ÆÏÌÑÂû¸î²¡,Botryosphaeria dothidea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1003,ÆÏÌÑÂû¸î²¡,Botryosphaeria dothidea,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+1004,Ìğ²Ë´Ô¸ù²¡,Beet rhizomania virus£¨BRV£©,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+1005,Ìğ²Ë´Ô¸ù²¡,Beet rhizomania virus£¨BRV£©,Ò¶,leaf,Î£º¦²¿Î»,InflictHarmPart
+1006,Ìğ²ËÃç¸¯²¡,Pythium spp.,¾¥»ù,Stem base,Î£º¦²¿Î»,InflictHarmPart
+1007,Ìğ²ËÃç¸¯²¡,Pythium spp.,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1008,²è±ı²¡,Exobasidium vexans,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1009,²èÔ²³àĞÇ²¡,Elsino? leucospila,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1010,²èÔ²³àĞÇ²¡,Elsino? leucospila,Ò¶,leaf,Î£º¦²¿Î»,InflictHarmPart
+1011,²èºìĞâÔå²¡,Cephaleuros parasiticus,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+1012,²èºìĞâÔå²¡,Cephaleuros parasiticus,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1013,²è°×ĞÇ²¡,Phyllosticta theaefolia,ÄÛÒ¶,Young leaves,Î£º¦²¿Î»,InflictHarmPart
+1014,²è°×ĞÇ²¡,Phyllosticta theaefolia,Ò¶,leaf,Î£º¦²¿Î»,InflictHarmPart
+1015,²è°×ĞÇ²¡,Phyllosticta theaefolia,¼°ÄÛ,Tender,Î£º¦²¿Î»,InflictHarmPart
+1016,²èÔÆÎÆÒ¶¿İ²¡,Guignardia camelliae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1017,²èÔÆÎÆÒ¶¿İ²¡,Guignardia camelliae,Ö¦¸É,Branches,Î£º¦²¿Î»,InflictHarmPart
+1018,²èÔÆÎÆÒ¶¿İ²¡,Guignardia camelliae,¹ûÊµ,fruit,Î£º¦²¿Î»,InflictHarmPart
+1019,²èÊ÷Ì¦Şº¡¢µØÒÂ,Tea tree moss and lichen,Ì¦Şº,moss,Î£º¦²¿Î»,InflictHarmPart
+1020,²èÊ÷Ì¦Şº¡¢µØÒÂ,Tea tree moss and lichen,µØÒÂ,Lichen,Î£º¦²¿Î»,InflictHarmPart
+1021,ÑÌ²İÌ¿¾Ò²¡,Colletotrichum nicotianae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1022,ÑÌ²İÌ¿¾Ò²¡,Colletotrichum nicotianae,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1023,ÑÌ²İÌ¿¾Ò²¡,Colletotrichum nicotianae,»¨,flower,Î£º¦²¿Î»,InflictHarmPart
+1024,ÑÌ²İ¾úºË²¡,Sclerotinia sclerotiorum,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1025,ÑÌ²İµÍÍ·ºÚ²¡,Tobacco black shank,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1026,ÑÌ²İ»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1027,ÑÌ²İ»ÒÃ¹²¡,Botrytis cinerea,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1028,ÑÌ²İ»ÒÃ¹²¡,Botrytis cinerea,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1029,ÑÌ²İ»ÒÃ¹²¡,Botrytis cinerea,»¨Æ÷,Flower vases,Î£º¦²¿Î»,InflictHarmPart
+1030,ÑÌ²İ°ßµã²¡,Tobacco spotting,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1031,ÑÌ²İËªÃ¹²¡,Peronospora tabacina,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1032,ÑÌ²İ¿ÕëÖ²¡,Tobacco hollow stem,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1033,ÑÌ²İºÚëÖ²¡,Phytophthora nicotianae,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1034,ÑÌ²İºÚëÖ²¡,Phytophthora nicotianae,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1035,ÑÌ²İºÚëÖ²¡,Phytophthora nicotianae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1036,»¨Éú¾¥¸¯²¡,Aspergillus niger,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1037,»¨Éú¾¥¸¯²¡,Aspergillus niger,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+1038,»¨Éú¾úºË²¡,Sclerotinia sclerotiorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1039,»¨Éú¾úºË²¡,Sclerotinia sclerotiorum,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+1040,»¨Éú¾úºË²¡,Sclerotinia sclerotiorum,¼Ô¹û,Pods,Î£º¦²¿Î»,InflictHarmPart
+1041,»¨ÉúÍø°ß²¡,Drechslera teres f. sp. arachidis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1042,»¨ÉúÍø°ß²¡,Drechslera teres f. sp. arachidis,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1043,ÓÍ²ËºÚëÖ²¡,Leptosphaeria biglobosa,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1044,ÓÍ²ËºÚëÖ²¡,Leptosphaeria biglobosa,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1045,ÓÍ²ËºÚëÖ²¡,Leptosphaeria biglobosa,¸ù¡¢¾¥,rhizome,Î£º¦²¿Î»,InflictHarmPart
+1046,ÓÍ²ËºÚëÖ²¡,Leptosphaeria biglobosa,¹û¼Ô,Fruit Pods,Î£º¦²¿Î»,InflictHarmPart
+1047,ÓÍ²ËºÚëÖ²¡,Leptosphaeria biglobosa,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+1048,ÓÍ²ËÁ¢¿İ²¡,Rhizoctonia solani,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1049,ÓÍ²Ë¾úºË²¡,Sclerotinia sclerotiorum,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1050,ÓÍ²Ë¾úºË²¡,Sclerotinia sclerotiorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1051,ÓÍ²Ë¾úºË²¡,Sclerotinia sclerotiorum,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+1052,ÓÍ²Ë¾úºË²¡,Sclerotinia sclerotiorum,¹û¼Ô,Fruit Pods,Î£º¦²¿Î»,InflictHarmPart
+1053,ÓÍ²ËËªÃ¹²¡,Peronospora parasitica,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1054,ÓÍ²ËËªÃ¹²¡,Peronospora parasitica,»¨¹£,Pedicels,Î£º¦²¿Î»,InflictHarmPart
+1055,ÓÍ²ËËªÃ¹²¡,Peronospora parasitica,¹û¼Ô,Fruit Pods,Î£º¦²¿Î»,InflictHarmPart
+1056,ÓÍ²ËÌ¿¾Ò²¡,Colletotrichum higginsianum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1057,ÓÍ²ËÌ¿¾Ò²¡,Colletotrichum higginsianum,¹û¼Ô,Fruit Pods,Î£º¦²¿Î»,InflictHarmPart
+1058,ÓÍ²ËºÚ°ß²¡,Alternaria brassicae,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1059,ÓÍ²ËºÚ°ß²¡,Alternaria brassicae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1060,ÓÍ²ËºÚ°ß²¡,Alternaria brassicae,¹û¼Ô,Fruit Pods,Î£º¦²¿Î»,InflictHarmPart
+1061,ÓÍ²ËºÚ¸¯²¡,Xanthomonas campestris pv. campestris,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1062,ÓÍ²ËºÚ¸¯²¡,Xanthomonas campestris pv. campestris,¹û¼Ô,Fruit Pods,Î£º¦²¿Î»,InflictHarmPart
+1063,ÓÍ²ËÈí¸¯²¡,Erwinia carotovora subsp. carotovora,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1064,ÓÍ²ËÏ¸¾úĞÔºÚ°ß²¡,Pseudomonas syringae pv. maculicola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1065,ÓÍ²Ë²¡¶¾²¡,Rapeseed virus,¸ÊÀ¶,Kale,Î£º¦²¿Î»,InflictHarmPart
+1066,ÓÍ²Ë²¡¶¾²¡,Rapeseed virus,°×²Ë,Chinese cabbage,Î£º¦²¿Î»,InflictHarmPart
+1067,Ö¥ÂéÒß²¡,Phytophthora nicotianae var. parasitica,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1068,Ö¥ÂéÒß²¡,Phytophthora nicotianae var. parasitica,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1069,Ö¥ÂéÒ¶¿İ²¡,Alternaria sesami,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1070,Ö¥ÂéÒ¶¿İ²¡,Alternaria sesami,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1071,Ö¥ÂéÒ¶°ß²¡,Sesame leaf spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1072,Ö¥ÂéÒ¶°ß²¡,Sesame leaf spot,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+1073,Ö¥ÂéÇà¿İ²¡,Ralstonia solanacearum,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1074,Ö¥ÂéÇà¿İ²¡,Ralstonia solanacearum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1075,Ö¥ÂéÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas campestris pv. sesami,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1076,Ö¥ÂéÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas campestris pv. sesami,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1077,Ö¥ÂéÏ¸¾úĞÔ½Ç°ß²¡,Xanthomonas campestris pv. sesami,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1078,ÏòÈÕ¿û¾úºË²¡,Sclerotinia sclerotiorum,¸ù¸¯,Root rot,Î£º¦²¿Î»,InflictHarmPart
+1079,ÏòÈÕ¿û¾úºË²¡,Sclerotinia sclerotiorum,¾¥¸¯,Stem rot,Î£º¦²¿Î»,InflictHarmPart
+1080,ÏòÈÕ¿û¾úºË²¡,Sclerotinia sclerotiorum,Ò¶¸¯,Leaf Rot,Î£º¦²¿Î»,InflictHarmPart
+1081,ÏòÈÕ¿ûºÚ°ß²¡,Alternaria helianthi,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1082,ÏòÈÕ¿ûºÚ°ß²¡,Alternaria helianthi,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1083,ÏòÈÕ¿ûºÚ°ß²¡,Alternaria helianthi,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1084,ÏòÈÕ¿ûºÚ°ß²¡,Alternaria helianthi,»¨°ê,petal,Î£º¦²¿Î»,InflictHarmPart
+1085,¸ÊÕá³à¸¯²¡,Colletotrichum falcatum,¾¥¸Ñ,Stem,Î£º¦²¿Î»,InflictHarmPart
+1086,¸ÊÕá³à¸¯²¡,Colletotrichum falcatum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1087,¸ÊÕáÑÛ°ß²¡,Helminthosporium sacchari,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1088,Ìğ²ËÁ¢¿İ²¡,Rhizoctonia solani,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1089,Ìğ²ËºÖ°ß²¡,Cercospora beticola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1090,Ìğ²ËºÖ°ß²¡,Cercospora beticola,Ò¶,leaf,Î£º¦²¿Î»,InflictHarmPart
+1091,Ìğ²ËºÖ°ß²¡,Cercospora beticola,ºÍ¾¥²¿,and stem,Î£º¦²¿Î»,InflictHarmPart
+1092,ÑÇÂéÌ¿¾Ò²¡,Colletotrichum lini,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+1093,ÑÇÂéÌ¿¾Ò²¡,Colletotrichum lini,Ò¶,leaf,Î£º¦²¿Î»,InflictHarmPart
+1094,ÑÇÂéÌ¿¾Ò²¡,Colletotrichum lini,¼°¾¥²¿,and stem,Î£º¦²¿Î»,InflictHarmPart
+1095,ºìÂéÌ¿¾Ò²¡,Colletotrichum hibisci,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1096,ºìÂéÌ¿¾Ò²¡,Colletotrichum hibisci,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1097,ºìÂéÌ¿¾Ò²¡,Colletotrichum hibisci,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1098,ºìÂéÌ¿¾Ò²¡,Colletotrichum hibisci,»¨ÀÙ,bud,Î£º¦²¿Î»,InflictHarmPart
+1099,ºìÂé°ßµã²¡,Kenaf spot,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+1100,ºìÂé°ßµã²¡,Kenaf spot,ÕæÒ¶,True leaves,Î£º¦²¿Î»,InflictHarmPart
+1101,ºìÂé°ßµã²¡,Kenaf spot,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1102,ºìÂé°ßµã²¡,Kenaf spot,İô¹û,Capsule,Î£º¦²¿Î»,InflictHarmPart
+1103,ºìÂé»ÒÃ¹²¡,Botrytis cinerea,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1104,ºìÂé»ÒÃ¹²¡,Botrytis cinerea,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1105,ºìÂé»ÒÃ¹²¡,Botrytis cinerea,»¨ÀÙ,bud,Î£º¦²¿Î»,InflictHarmPart
+1106,»ÆÂé¸ù¸¯²¡,Jute root rot,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1107,ÜÑÂéÌ¿¾Ò²¡,Colletotrichum boehmeriae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1108,ÜÑÂéÌ¿¾Ò²¡,Colletotrichum boehmeriae,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1109,ÜÑÂéÌ¿¾Ò²¡,Colletotrichum boehmeriae,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1110,ÜÑÂéºÖ°ß²¡,Ramie brown spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1111,ÜÑÂéºÖ°ß²¡,Ramie brown spot,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1112,ÜÑÂé»¨Ò¶²¡,Ramie mosaic,»¨Ò¶ĞÍ,Mosaic,Î£º¦²¿Î»,InflictHarmPart
+1113,´ó¶¹ËªÃ¹²¡,Peronospora manshurica,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1114,´ó¶¹ËªÃ¹²¡,Peronospora manshurica,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1115,´ó¶¹ËªÃ¹²¡,Peronospora manshurica,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1116,´ó¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. glycines,ÕûÖê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+1117,´ó¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. glycines,¸ùÏµ,Root system,Î£º¦²¿Î»,InflictHarmPart
+1118,´ó¶¹¿İÎ®²¡,Fusarium oxysporum f. sp. glycines,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+1119,´ó¶¹×Ï°ß²¡,Cercospora kikuchii,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1120,´ó¶¹×Ï°ß²¡,Cercospora kikuchii,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1121,´ó¶¹×Ï°ß²¡,Cercospora kikuchii,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1122,´ó¶¹×Ï°ß²¡,Cercospora kikuchii,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1123,´ó¶¹×Ï°ß²¡,Cercospora kikuchii,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+1124,´ó¶¹»Ò°ß²¡,Cercospora sojina,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1125,´ó¶¹»Ò°ß²¡,Cercospora sojina,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1126,´ó¶¹»Ò°ß²¡,Cercospora sojina,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1127,´ó¶¹»Ò°ß²¡,Cercospora sojina,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1128,´ó¶¹»Ò°ß²¡,Cercospora sojina,ÖÖ×Ó,seed,Î£º¦²¿Î»,InflictHarmPart
+1129,´ó¶¹ºÖ°ß²¡,Soybean brown blotch,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1130,´ó¶¹ºÖ°ß²¡,Soybean brown blotch,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1131,´ó¶¹ºÖ°ß²¡,Soybean brown blotch,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1132,´ó¶¹ÎÆ¿İ²¡,Rhizoctonia solani,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1133,´ó¶¹ĞßÎ®²¡,Soybean shy wilt,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1134,´ó¶¹ÂÖÎÆ²¡,Soybean ring pattern,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+1135,´ó¶¹ÂÖÎÆ²¡,Soybean ring pattern,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1136,´ó¶¹ÂÖÎÆ²¡,Soybean ring pattern,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1137,´ó¶¹ÂÖÎÆ²¡,Soybean ring pattern,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+1138,´ó¶¹¼Ô¿İ²¡,Soybean pod blight,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1139,´ó¶¹Òß²¡,Phytophthora sojae,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1140,´ó¶¹Òß²¡,Phytophthora sojae,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+1141,´ó¶¹Òß²¡,Phytophthora sojae,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1142,´ó¶¹Ì¿¾Ò²¡,Colletotrichum glycines,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1143,´ó¶¹Ì¿¾Ò²¡,Colletotrichum glycines,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1144,´ó¶¹Ì¿¾Ò²¡,Colletotrichum glycines,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1145,´ó¶¹Ì¿¾Ò²¡,Colletotrichum glycines,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1146,´ó¶¹ºÚµã²¡,Soybean black dot,¾¥¸Ñ,Stem,Î£º¦²¿Î»,InflictHarmPart
+1147,´ó¶¹ºÚµã²¡,Soybean black dot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1148,´ó¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1149,´ó¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1150,´ó¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1151,´ó¶¹Ï¸¾úĞÔ°ßµã²¡,Soybean bacterial spot,×ÑÁ£,Grains,Î£º¦²¿Î»,InflictHarmPart
+1152,´ó¶¹Ï¸¾úĞÔ°ßÕî²¡,Soybean bacterial pustule,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1153,´ó¶¹Ï¸¾úĞÔ°ßÕî²¡,Soybean bacterial pustule,¶¹¼Ô,pod,Î£º¦²¿Î»,InflictHarmPart
+1154,¸ßÁ»Ì¿¾Ò²¡,Colletotrichum sublineolum,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1155,¸ßÁ»Ì¿¾Ò²¡,Colletotrichum sublineolum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1156,¸ßÁ»Ì¿¾Ò²¡,Colletotrichum sublineolum,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1157,¸ßÁ»Ì¿¾Ò²¡,Colletotrichum sublineolum,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1158,¸ßÁ»ÖùºÚ·Û²¡,Sphacelotheca reiliana,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1159,¸ßÁ»ÖùºÚ·Û²¡,Sphacelotheca reiliana,¾¥¸Ñ,Stem,Î£º¦²¿Î»,InflictHarmPart
+1160,¸ßÁ»ÖùºÚ·Û²¡,Sphacelotheca reiliana,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1161,¸ßÁ»Á­µ¶¾úËë¸¯²¡,Fusarium graminearum,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1162,¸ßÁ»Á­µ¶¾úËë¸¯²¡,Fusarium graminearum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1163,¸ßÁ»Á­µ¶¾úËë¸¯²¡,Fusarium graminearum,¾¥¸Ñ,Stem,Î£º¦²¿Î»,InflictHarmPart
+1164,¸ßÁ»×Ï°ß²¡,Cercospora sorghi,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1165,¸ßÁ»×Ï°ß²¡,Cercospora sorghi,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1166,¸ßÁ»×ÏÂÖ²¡,Sorghum purple ring,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1167,¸ßÁ»×ÏÂÖ²¡,Sorghum purple ring,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1168,ËÚ°×·¢²¡,Sclerospora graminicola,ÀÃÑ¿,Rotten Buds,Î£º¦²¿Î»,InflictHarmPart
+1169,ËÚºúÂé°ß²¡,Bipolaris setariae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1170,ËÚºúÂé°ß²¡,Bipolaris setariae,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1171,ËÚºúÂé°ß²¡,Bipolaris setariae,Ó±¿Ç,Husk,Î£º¦²¿Î»,InflictHarmPart
+1172,¸ÊÊí´¯ğè²¡,Elsino? batatas,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1173,¸ÊÊí´¯ğè²¡,Elsino? batatas,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1174,¸ÊÊí´¯ğè²¡,Elsino? batatas,ÄÛÉÒ,Young shoots,Î£º¦²¿Î»,InflictHarmPart
+1175,¸ÊÊí´¯ğè²¡,Elsino? batatas,Êí¿é,Potato Nuggets,Î£º¦²¿Î»,InflictHarmPart
+1176,¸ÊÊíºÚ°ß²¡,Ceratocystis fimbriata,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1177,¸ÊÊíÎÁ²¡,Ralstonia solanacearum,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1178,¸ÊÊíÎÁ²¡,Ralstonia solanacearum,Êí¿é,Potato Nuggets,Î£º¦²¿Î»,InflictHarmPart
+1179,¸ÊÊí²¡¶¾²¡,Sweet potato virus,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1180,¸ÊÊí²¡¶¾²¡,Sweet potato virus,Êí¿é,Potato Nuggets,Î£º¦²¿Î»,InflictHarmPart
+1181,¸ÊÊí¾¥Ïß³æ²¡,Ditylenchus destructor,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1182,¸ÊÊí¾¥Ïß³æ²¡,Ditylenchus destructor,¾¥Âû,Stem,Î£º¦²¿Î»,InflictHarmPart
+1183,¸ÊÊí¾¥Ïß³æ²¡,Ditylenchus destructor,Êí¿é,Potato Nuggets,Î£º¦²¿Î»,InflictHarmPart
+1184,ÂíÁåÊíÔçÒß²¡,Alternaria solani,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1185,ÂíÁåÊíÔçÒß²¡,Alternaria solani,¿é¾¥,Tuber,Î£º¦²¿Î»,InflictHarmPart
+1186,ÂíÁåÊíÍíÒß²¡,Phytophthora infestans,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1187,ÂíÁåÊíÍíÒß²¡,Phytophthora infestans,Êí¿é,Potato Nuggets,Î£º¦²¿Î»,InflictHarmPart
+1188,ÂíÁåÊíÍíÒß²¡,Phytophthora infestans,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+1189,ÂíÁåÊíºÚëÖ²¡,Erwinia carotovora subsp. atroseptica,Êí¿é,Potato Nuggets,Î£º¦²¿Î»,InflictHarmPart
+1190,ÂíÁåÊíºÚëÖ²¡,Erwinia carotovora subsp. atroseptica,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1191,ÂíÁåÊí·Ûğè²¡,Spongospora subterranea f. sp. subterranea,¿é¾¥,Tuber,Î£º¦²¿Î»,InflictHarmPart
+1192,ÂíÁåÊí·Ûğè²¡,Spongospora subterranea f. sp. subterranea,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+1193,ÃŞ»¨Ì¿¾Ò²¡,Colletotrichum gossypii,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1194,ÃŞ»¨ºì¸¯²¡,Fusarium moniliforme,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1195,ÃŞ»¨¿İÎ®²¡,Fusarium oxysporum f. sp. vasinfectum,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1196,ÃŞ»¨¿İÎ®²¡,Fusarium oxysporum f. sp. vasinfectum,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+1197,ÃŞ»¨Òß²¡,Phytophthora boehmeriae,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1198,ÃŞ»¨Òß²¡,Phytophthora boehmeriae,ÁåÆÚ,Bell period,Î£º¦²¿Î»,InflictHarmPart
+1199,ÃŞ»¨¾¥¿İ²¡,Cotton stem blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1200,ÃŞ»¨¾¥¿İ²¡,Cotton stem blight,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1201,ÃŞ»¨¾¥¿İ²¡,Cotton stem blight,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1202,ÃŞ»¨¾¥¿İ²¡,Cotton stem blight,ÃŞÁå,Cotton boll,Î£º¦²¿Î»,InflictHarmPart
+1203,ÃŞ»¨½Ç°ß²¡,Xanthomonas citri pv. malvacearum,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1204,ÃŞ»¨½Ç°ß²¡,Xanthomonas citri pv. malvacearum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1205,ÃŞ»¨½Ç°ß²¡,Xanthomonas citri pv. malvacearum,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1206,ÃŞ»¨½Ç°ß²¡,Xanthomonas citri pv. malvacearum,ÃŞÁå,Cotton boll,Î£º¦²¿Î»,InflictHarmPart
+1207,´óÂóÌõÎÆ²¡,Drechslera graminea,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1208,´óÂóÌõÎÆ²¡,Drechslera graminea,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+1209,»ÆÂéÃç¿İ²¡,Jute seedling blight,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1210,»ÆÂéºÚµãÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1211,»ÆÂéºÚµãÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1212,»ÆÂéºÚµãÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1213,»ÆÂéÒ¶¿İ²¡,Jute leaf blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1214,»ÆÂéÒ¶¿İ²¡,Jute leaf blight,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1215,»ÆÂé¾¥°ß²¡,Jute stem spot,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+1216,»ÆÂé¾¥°ß²¡,Jute stem spot,ÕæÒ¶,True leaves,Î£º¦²¿Î»,InflictHarmPart
+1217,»ÆÂé¾¥°ß²¡,Jute stem spot,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1218,ÓñÃ×·è¶¥²¡,Maize crazy top,Ãç,Seedling,Î£º¦²¿Î»,InflictHarmPart
+1219,ÓñÃ×¾¥¸¯²¡,Fusarium graminearum,¸ù,root,Î£º¦²¿Î»,InflictHarmPart
+1220,ÓñÃ×¾¥¸¯²¡,Fusarium graminearum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1221,ÓñÃ×Ô²°ß²¡,Bipolaris zeicola,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1222,ÓñÃ×Ô²°ß²¡,Bipolaris zeicola,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1223,ÓñÃ×Ô²°ß²¡,Bipolaris zeicola,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1224,ÓñÃ×¸É¸¯²¡,Diplodia maydis,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1225,ÓñÃ×¸É¸¯²¡,Diplodia maydis,¾¥¸Ñ,Stem,Î£º¦²¿Î»,InflictHarmPart
+1226,ÓñÃ×¸É¸¯²¡,Diplodia maydis,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1227,ÓñÃ×Ë¿ºÚËë²¡,Sphacelotheca reiliana,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1228,ÓñÃ×Ë¿ºÚËë²¡,Sphacelotheca reiliana,ĞÛËë,Tassel,Î£º¦²¿Î»,InflictHarmPart
+1229,ÓñÃ×Ë¿ºÚËë²¡,Sphacelotheca reiliana,´ÆËë,Female ear,Î£º¦²¿Î»,InflictHarmPart
+1230,»ÆÂéÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1231,»ÆÂéÌ¿¾Ò²¡,Colletotrichum gloeosporioides,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1232,»ÆÂéÌ¿¾Ò²¡,Colletotrichum gloeosporioides,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1233,»ÆÂé¿İ¸¯²¡,Jute dry rot,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1234,»ÆÂé¿İ¸¯²¡,Jute dry rot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1235,»ÆÂé¿İ¸¯²¡,Jute dry rot,¾¥²¿,Stem,Î£º¦²¿Î»,InflictHarmPart
+1236,»ÆÂé¿İ¸¯²¡,Jute dry rot,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+1237,ÏòÈÕ¿ûºÖ°ß²¡,Sunflower brown spot,×ÓÒ¶,Cotyledon,Î£º¦²¿Î»,InflictHarmPart
+1238,ÏòÈÕ¿ûºÖ°ß²¡,Sunflower brown spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1239,ÏòÈÕ¿ûºÖ°ß²¡,Sunflower brown spot,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1240,ÏòÈÕ¿û°×·Û²¡,Sunflower powdery mildew,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1241,ÏòÈÕ¿û°×·Û²¡,Sunflower powdery mildew,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1242,ÏòÈÕ¿ûËªÃ¹²¡,Plasmopara halstedii,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1243,ÏòÈÕ¿ûÏ¸¾úĞÔ¾¥¸¯²¡,Erwinia carotovora subsp. carotovora,¾¥¸Ë,Stem,Î£º¦²¿Î»,InflictHarmPart
+1244,ÏòÈÕ¿ûÏ¸¾úĞÔ¾¥¸¯²¡,Erwinia carotovora subsp. carotovora,»¨ÅÌ,faceplate,Î£º¦²¿Î»,InflictHarmPart
+1245,´ĞÌ¿¾Ò²¡,Colletotrichum circinans,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1246,´ĞÌ¿¾Ò²¡,Colletotrichum circinans,ÁÛ¾¥,Bulb,Î£º¦²¿Î»,InflictHarmPart
+1247,´Ğ»Æ°«²¡,Onion yellow dwarf,´ó´Ğ,Green onion,Î£º¦²¿Î»,InflictHarmPart
+1248,´Ğ»Æ°«²¡,Onion yellow dwarf,Ñó,foreign,Î£º¦²¿Î»,InflictHarmPart
+1249,´ó°×²ËËªÃ¹²¡,Peronospora parasitica,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1250,´ó°×²ËËªÃ¹²¡,Peronospora parasitica,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+1251,´ó°×²ËËªÃ¹²¡,Peronospora parasitica,ÖÖ¼Ô,Seed Pods,Î£º¦²¿Î»,InflictHarmPart
+1252,´ó°×²ËºÚ°ß²¡,Alternaria brassicae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1253,´ó°×²ËºÚ°ß²¡,Alternaria brassicae,Ò¶±ú,Petiole,Î£º¦²¿Î»,InflictHarmPart
+1254,Çà»¨²ËºÚëÖ²¡,Leptosphaeria maculans,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1255,Çà»¨²ËºÚëÖ²¡,Leptosphaeria maculans,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+1256,ÓñÃ×ÌõÎÆ°«Ëõ²¡,Maize stripe dwarf,ÕûÖê,Whole plant,Î£º¦²¿Î»,InflictHarmPart
+1257,ÓñÃ×ÌõÎÆ°«Ëõ²¡,Maize stripe dwarf,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1258,´ó°×²ËºÚëÖ²¡,Chinese cabbage blackleg,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1259,´ó°×²ËºÚëÖ²¡,Chinese cabbage blackleg,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+1260,Çà»¨²ËËªÃ¹²¡,Peronospora parasitica,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1261,Çà»¨²ËËªÃ¹²¡,Peronospora parasitica,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1262,Çà»¨²ËËªÃ¹²¡,Peronospora parasitica,»¨Çò,Flower Balls,Î£º¦²¿Î»,InflictHarmPart
+1263,Çà»¨²Ë»ÒÃ¹²¡,Botrytis cinerea,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1264,Çà»¨²Ë»ÒÃ¹²¡,Botrytis cinerea,³ÉÖê,Adult plant,Î£º¦²¿Î»,InflictHarmPart
+1265,µ¾ÎÁ²¡,Magnaporthe oryzae,ÃçÎÁ,Miao plague,Î£º¦²¿Î»,InflictHarmPart
+1266,µ¾ÎÁ²¡,Magnaporthe oryzae,Ò¶ÎÁ,Leaf blight,Î£º¦²¿Î»,InflictHarmPart
+1267,µ¾ÎÁ²¡,Magnaporthe oryzae,¹ÈÁ£ÎÁ,Grain blight,Î£º¦²¿Î»,InflictHarmPart
+1268,Ë®µ¾¶ñÃç²¡,Fusarium fujikuroi,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1269,Ë®µ¾¾úºË¸Ñ¸¯²¡,Rice sclerotium stem rot,¾¥¸Ñ,Stem,Î£º¦²¿Î»,InflictHarmPart
+1270,Ë®µ¾¾úºË¸Ñ¸¯²¡,Rice sclerotium stem rot,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1271,Ë®µ¾ÎÆ¿İ²¡,Rhizoctonia solani,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1272,Ë®µ¾ÎÆ¿İ²¡,Rhizoctonia solani,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1273,Ë®µ¾ºúÂé°ß²¡,Bipolaris oryzae,Ó×Ñ¿,bud,Î£º¦²¿Î»,InflictHarmPart
+1274,Ë®µ¾ºúÂé°ß²¡,Bipolaris oryzae,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1275,Ë®µ¾ºúÂé°ß²¡,Bipolaris oryzae,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1276,Ë®µ¾¶«¸ñÂ³²¡¶¾²¡,Rice tungro virus£¨RTV£©,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1277,Ë®µ¾µ¹·ü,Rice lodging,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1278,Ë®µ¾ËªÃ¹²¡,Sclerospora graminicola,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1279,Ë®µ¾Õ­Ìõ°ß²¡,Cercospora janseana,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1280,Ë®µ¾Õ­Ìõ°ß²¡,Cercospora janseana,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1281,Ë®µ¾Õ­Ìõ°ß²¡,Cercospora janseana,¾¥¸Ñ,Stem,Î£º¦²¿Î»,InflictHarmPart
+1282,Ë®µ¾Õ­Ìõ°ß²¡,Cercospora janseana,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1283,Ë®µ¾Õ­Ìõ°ß²¡,Cercospora janseana,¹ÈÁ£,Grains,Î£º¦²¿Î»,InflictHarmPart
+1284,Ë®µ¾Ò¶¼â¿İ²¡,Rice leaf tip blight,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1285,Ë®µ¾Ò¶¼â¿İ²¡,Rice leaf tip blight,¹ÈÁ£,Grains,Î£º¦²¿Î»,InflictHarmPart
+1286,Ë®µ¾°×Ò¶¿İ²¡,Xanthomonas oryzae pv. oryzae,Ò¶¿İ,Leaf blight,Î£º¦²¿Î»,InflictHarmPart
+1287,Ë®µ¾Ï¸¾úĞÔºÖ°ß²¡,Rice bacterial brown spot,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1288,Ë®µ¾Ï¸¾úĞÔºÖ°ß²¡,Rice bacterial brown spot,Ò¶ÇÊ,Leaf sheath,Î£º¦²¿Î»,InflictHarmPart
+1289,Ë®µ¾Ï¸¾úĞÔºÖ°ß²¡,Rice bacterial brown spot,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1290,Ë®µ¾ºÚÌõ°«Ëõ²¡,Rice black - streaked dwarf virus£¨RBSDV£©,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+1291,Ë®µ¾ºÚÌõ°«Ëõ²¡,Rice black - streaked dwarf virus£¨RBSDV£©,Ò¶,leaf,Î£º¦²¿Î»,InflictHarmPart
+1292,Ë®µ¾ºÚÌõ°«Ëõ²¡,Rice black - streaked dwarf virus£¨RBSDV£©,Ëë,ear,Î£º¦²¿Î»,InflictHarmPart
+1293,Ë®µ¾¸ù½áÏß³æ²¡,Meloidogyne graminicola,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+1294,Ğ¡Âó¸Ñ¿İ²¡,Wheat straw blight,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1295,Ğ¡ÂóÈ«Ê´²¡,Gaeumannomyces graminis var. tritici,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1296,Ğ¡ÂóÌõĞâ²¡,Puccinia striiformis f. sp. tritici,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1297,Ğ¡ÂóËªÃ¹²¡,Wheat downy mildew,ÃçÆÚ,Seedling stage,Î£º¦²¿Î»,InflictHarmPart
+1298,Ğ¡ÂóËªÃ¹²¡,Wheat downy mildew,ËëÆÚ,Heading stage,Î£º¦²¿Î»,InflictHarmPart
+1299,Ğ¡ÂóÑ©Ã¹Ò¶¿İ²¡,Microdochium nivale,Ñ¿¸¯,Bud rot,Î£º¦²¿Î»,InflictHarmPart
+1300,Ğ¡ÂóÑ©Ã¹Ò¶¿İ²¡,Microdochium nivale,»ù¸¯,Basal rot,Î£º¦²¿Î»,InflictHarmPart
+1301,Ğ¡ÂóÑ©Ã¹Ò¶¿İ²¡,Microdochium nivale,Ò¶¿İ,Leaf blight,Î£º¦²¿Î»,InflictHarmPart
+1302,Ğ¡ÂóÑ©Ã¹Ò¶¿İ²¡,Microdochium nivale,Ëë¸¯,Ear rot,Î£º¦²¿Î»,InflictHarmPart
+1303,Ğ¡Âó°×¸Ñ²¡,Wheat white stem,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1304,Ğ¡Âó°×¸Ñ²¡,Wheat white stem,¾¥,stem,Î£º¦²¿Î»,InflictHarmPart
+1305,Ğ¡Âó°×¸Ñ²¡,Wheat white stem,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1306,Ğ¡Âó¸ù¸¯²¡,Bipolaris sorokiniana,Ó×Ãç,seedling,Î£º¦²¿Î»,InflictHarmPart
+1307,Ğ¡Âó¸ù¸¯²¡,Bipolaris sorokiniana,¸ù²¿,Root,Î£º¦²¿Î»,InflictHarmPart
+1308,Ğ¡Âó¸ù¸¯²¡,Bipolaris sorokiniana,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1309,Ğ¡Âó¸ù¸¯²¡,Bipolaris sorokiniana,¾¥½Ú,Stem node,Î£º¦²¿Î»,InflictHarmPart
+1310,Ğ¡Âó¸ù¸¯²¡,Bipolaris sorokiniana,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1311,Ğ¡Âó³àÃ¹²¡,Fusarium graminearum,Ãç¸¯,Seedling rot,Î£º¦²¿Î»,InflictHarmPart
+1312,Ğ¡Âó³àÃ¹²¡,Fusarium graminearum,¾¥»ù¸¯,Stem base rot,Î£º¦²¿Î»,InflictHarmPart
+1313,Ğ¡Âó³àÃ¹²¡,Fusarium graminearum,¸Ñ¸¯,Stalk rot,Î£º¦²¿Î»,InflictHarmPart
+1314,Ğ¡Âó³àÃ¹²¡,Fusarium graminearum,Ëë¸¯,Ear rot,Î£º¦²¿Î»,InflictHarmPart
+1315,Ğ¡ÂóÓ±¿İ²¡,Septoria nodorum,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1316,Ğ¡ÂóÓ±¿İ²¡,Septoria nodorum,¾¥½Ú,Stem node,Î£º¦²¿Î»,InflictHarmPart
+1317,Ğ¡ÂóÓ±¿İ²¡,Septoria nodorum,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1318,Ğ¡ÂóºÚÓ±²¡,Xanthomonas translucens,Ëë²¿,Hobe,Î£º¦²¿Î»,InflictHarmPart
+1319,Ğ¡ÂóºÚÓ±²¡,Xanthomonas translucens,Ò¶Æ¬,blade,Î£º¦²¿Î»,InflictHarmPart
+1320,Ğ¡ÂóºÚÓ±²¡,Xanthomonas translucens,¾¥¸Ñ,Stem,Î£º¦²¿Î»,InflictHarmPart
+1321,Ğ¡ÂóºÚÓ±²¡,Xanthomonas translucens,ËëÖá,Cob,Î£º¦²¿Î»,InflictHarmPart
